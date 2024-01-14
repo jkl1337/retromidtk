@@ -1,1 +1,393 @@
--------------------------------------------------------------------------------------------------------------SD-80/SD-90 Native Instruments List-------------------------------------------------------------------------------------------------------------PC	LSB	MSB	Classicial Map	MSB	Contemporary Map	MSB	Solo Map	MSB	Enhanced Map1	0	96	Piano 1     	97	Ac.Piano    	98	St.Piano 1  	99	SD Piano    	1	96	Piano 1w    	97	Ac.Piano w  	98	St.Piano 1w 	99	SD Piano w  	2	96	Piano 1d    	97	Mild Piano  	98	European Pf 	99	Classic Pf  2	0	96	Piano 2     	97	Rock Piano  	98	St.Piano 2  	99	Enh.Piano 2 	1	96	Piano 2w    	97	Rock Piano w	98	St.Piano 2w 	99	Enh.Piano 2w3	0	96	Piano 3     	97	E.Grand Pf  	98	SA Piano    	99	Enh.E Grand 	1	96	Piano 3w    	97	E.Grand Pf w	98	SA Piano w  	99	Enh.E Grandw4	0	96	Honky-tonk  	97	Old Honky   	98	St.Honky    	99	Brite Honky 	1	96	Honky-tonk w	97	Old Honky w 	98	St.Honky w  	99	Brite Honkyw5	0	96	E.Piano 1   	97	Soft Rhodes 	98	Tremo Rhodes	99	Stage 73    	1	96	Detuned EP1 	97	Fat Rhodes  	98	Sweet Tynes 	99	NY Rhodes   	2	96	Dyno Rhodes 	97	Rhodes Wide 	98	Tremo Dyno  	99	Rhase Dyno  	3	96	60's E.Piano	97	Wurly Soft  	98	Tremo Wurly 	99	Whirly      6	0	96	E.Piano 2   	97	FM E.Piano  	98	FM Hard EP  	99	Chorus EP   	1	96	Detuned EP2 	97	Soft FM EP  	98	Brite FM EP 	99	Phase FM EP 	2	96	E.Piano 2v  	97	SA E.Piano  	98	Brite FM EP2	99	Wah FM EP   	3	96	EP Legend   	97	EP Legend 2 	98	EP Legend 3 	99	Enh.Legend  	4	96	EP Phase    	97	EP Phase 2  	98	EP Phase 3  	99	Phasing EP  7	0	96	Harpsichord 	97	Harpsi 2    	98	St.Harpsichd	99	Enh.Harpsi  	1	96	Coupl hps   	97	Coupl hps 2 	98	St.Coupl hps	99	Enh.Coupl hp	2	96	Harpsi w    	97	Harpsi 2 w  	98	St.Harpsi w 	99	Enh.Harpsi w	3	96	Harpsi o    	97	Harpsi 2 o  	98	St.Harpsi o 	99	Enh.Harpsi o8	0	96	Clav        	97	Atack Clav 1	98	Atack Clav 2	99	Comp Clav   	1	96	Pulse Clav  	97	AnalogClav 1	98	AnalogClav 2	99	Wah Ana.Clav9	0	96	Celesta     	97	Celesta 2   	98	St.Celesta  	99	SpaceCelesta10	0	96	Glockenspiel	97	Glocken 2   	98	St.Glocken  	99	Trem.Glocken11	0	96	Music Box   	97	Music Box 2 	98	St.Music Box	99	Panning Box 12	0	96	Vibraphone  	97	Vibraphone 2	98	St.Vibra    	99	Trem.Vibra  	1	96	Vibraphone w	97	Vibraphone2w	98	St.Vibra w  	99	Trem.Vibra w13	0	96	Marimba     	97	Marimba 2   	98	St.Marimba  	99	Enh.Marimba 	1	96	Marimba w   	97	Marimba 2 w 	98	St.Marimba w	99	Enh.Marimbaw14	0	96	Xylophone   	97	Xylophone 2 	98	St.Xylophone	99	Enh.Xylophon15	0	96	Tubular-bell	97	Tubular-bel2	98	St.Tubular  	99	Trem.Tubula 	1	96	Church Bell 	97	Church Bell2	98	St.Church   	99	Echo Church 	2	96	Carillon    	97	Carillon 2  	98	St.Carillon 	99	Trm.Carillon16	0	96	Santur      	97	Santur 2    	98	St.Santur   	99	Enh.Santur  17	0	96	Organ 1     	97	Perky       	98	Roller      	99	Perky Spin  	1	96	Detuned Or1 	97	Ballad B    	98	Rocker      	99	Gospel Spin 	2	96	Organ 60    	97	Happy 60s   	98	Soft60'Organ	99	96 Year     	3	96	Organ 4     	97	Tone Wheel  	98	Full Stops  	99	Tone Wh.Solo18	0	96	Organ 2     	97	Jazz Organ 1	98	Jazz Organ 2	99	Jazzy Spin  	1	96	Detuned Or2 	97	Perc.Organ 1	98	Perc.Organ 2	99	Jazzy Spin 2	2	96	Organ 5     	97	Dist.JzOrg 1	98	Dist.JzOrg 2	99	Jazzy Spin 319	0	96	Organ 3     	97	Organ 3 fast	98	Rock Organ  	99	Rocker Spin 20	0	96	Church 1    	97	Pipe Organ 1	98	Pipe Organ 2	99	Amb.Church  	1	96	Church 2    	97	LargeChurch1	98	LargeChurch2	99	Amb.Church 2	2	96	Church 3    	97	SmallChurch1	98	SmallChurch2	99	Amb.Church 321	0	96	Reed Organ  	97	Reed Organ 2	98	Reed Organ 3	99	Old Reed Org	1	96	Puff Organ  	97	Organ Flute 	98	Theater     	99	Enh.Theater 22	0	96	Accordion F 	97	French Acc  	98	St.FrenchAcc	99	Enh.French  	1	96	Accordion I 	97	It Muset    	98	St.It Muset 	99	Enh.ItMuset 23	0	96	Harmonica   	97	Harmonica 2 	98	St.Harmonica	99	Ld.Harmonica24	0	96	Bandneon    	97	Bandneon 1  	98	St.Bandneon 	99	Enh.Bandneon25	0	96	Nylon Gt    	97	Nylon Gt 2  	98	Nylon Gt 3  	99	Enh.Nylon Gt	1	96	Ukulele     	97	Ukulele 2   	98	Ukulele 3   	99	Enh.Ukulele 	2	96	Nylon o     	97	Nylon 2 o   	98	Nylon 3 o   	99	Enh.Nylon o 	3	96	Nylon Gt.2  	97	Hard Gut Gt 	98	Hard Gut Gt2	99	Enh.Gut Gt  26	0	96	Steel-str.Gt	97	OV Steel Gt 	98	SteelStr.Gt2	99	Comp OVSteel	1	96	12-Str.Gt   	97	12-Str.Gt 2 	98	12-Str.Gt 3 	99	3D 12-Str.Gt	2	96	Mandolin    	97	Mandolin 2  	98	Mandolin 3  	99	Enh.Mandolin	3	96	Steel+Body  	97	Steel+Body 2	98	Steel+Body 3	99	DelayedSteel27	0	96	Jazz Gt     	97	Jazz Gt 2   	98	Jazz Gt 3   	99	Lead Jazz Gt	1	96	Pedal Steel 	97	Pedal Steel2	98	Pedal Steel3	99	Hawaian Gt  28	0	96	Clean Rear  	97	TC Rear     	98	Strat2 Rear 	99	Old Clean Gt	1	96	Clean Half  	97	TC Front    	98	Chorus Clean	99	Jazz Chorus 	2	96	Mid Tone Gt 	97	TC Front 2  	98	335	99	335 Drive   29	0	96	Muted Gt    	97	TC Mute Gt  	98	TC Mute Gt 2	99	Comp Mute Gt	1	96	Funk Gt     	97	FunkGt Slap 	98	FunkGt.Slap2	99	Enh.Funk Gt 	2	96	Funk Gt 2   	97	Funk Pop    	98	Funk Pop 2  	99	Wah Funk Pop	3	96	Jazz Man    	97	Mute Jazz Gt	98	Slap Jazz Gt	99	Solo Jazz Gt30	0	96	Overdrive Gt	97	Atk Drive Gt	98	OverdriveGt2	99	TC Lead Gt  	1	96	Gt.Pinch    	97	Gt.Pinch 2  	98	Gt.Pinch 3  	99	Gt.PinchLead31	0	96	DistortionGt	97	Atk Dist Gt 	98	Dist.Gt 2   	99	Heavy DistGt	1	96	Feedback Gt 	97	FeedbackGt 2	98	Feedback OD 	99	Feedbacker  	2	96	DistRythm Gt	97	Muted Dist  	98	Muted Dist 2	99	Muted OD    32	0	96	Gt.Harmonics	97	Gt.Harm 2   	98	Gt.OctHarm  	99	Amp.Harm    	1	96	Gt.Feedback 	97	FeedbackOct 	98	FeedbackHarm	99	Amp.FeedBack33	0	96	Acoustic Bs 	97	Rockabilly  	98	Fat Aco.Bass	99	Enh.Aco Bass34	0	96	Fingered Bs 	97	Fingered Bs2	98	Jazz Bass   	99	Pre Bass    	1	96	FingerJ.Bass	97	FingerP.Bass	98	Finger Slap 	99	Comp Finger 35	0	96	Picked Bass 	97	Picked Jz Bs	98	Picking Bass	99	Rock Bass   36	0	96	Fretless Bs 	97	Fretless Bs2	98	PhaseFrtless	99	Cho.Fretless37	0	96	Slap Bass 1 	97	Slap Pop 1  	98	Jazz Slap   	99	Phase Slap  38	0	96	Slap Bass 2 	97	Funky Slap  	98	Slap Pop 2  	99	Enh.Slap Pop39	0	96	Synth Bass 1	97	MG303 Bass  	98	Fat Syn.Bass	99	Dist303 Bass	1	96	SynthBass101	97	MG Bass     	98	SynthSaw Bs 	99	P.Shift Bass	2	96	Acid Bass   	97	MG Acid Bass	98	AcidBs Dirty	99	Acid Dist Bs	3	96	Clavi Bass  	97	Clavi Bass 2	98	Clavi Bass 3	99	PhaseClaviBs	4	96	Hammer      	97	OB Hammer   	98	MG Hammer   	99	Enh.Hammer  40	0	96	Synth Bass 2	97	Seq101 Bass 	98	Sq SynthBass	99	PhaseSq Bass	1	96	Beef FM Bs  	97	Beef Slap Bs	98	Beef Saw Bs 	99	Enh.Beef Bs 	2	96	Rubber Bass 	97	Rubber Bass2	98	JpSaw Rubber	99	Fat JpSaw Bs	3	96	Attack Pulse	97	Attack Saw  	98	Attack MG Bs	99	Enh.MG Bass 41	0	96	Violin      	97	Violin vib  	98	Violin 2 vib	99	Enh.Violin  	1	96	Slow Violin 	97	Slow Vln vib	98	SlowVln2 vib	99	Enh.Slow Vln42	0	96	Viola       	97	Viola vib   	98	Viola2 vib  	99	Enh.Viola   43	0	96	Cello       	97	Cello vib   	98	Cello2 vib  	99	Enh.Cello   44	0	96	Contrabass  	97	Cb vib      	98	Cb2 vib     	99	Enh.Cb      45	0	96	Tremolo Str 	97	Tremolo Str2	98	St.Trem Str 	99	St.Trem Str246	0	96	Pizzicato   	97	Pizzicato 2 	98	St.Pizzicato	99	Chorus Pizz 47	0	96	Harp        	97	Harp 2      	98	St.Harp     	99	Chorus Harp 	1	96	Yangqin     	97	Yangqin 2   	98	St.Yangqin  	99	Enh.Yangqin 48	0	96	Timpani     	97	Timpani 2   	98	St.Timpani  	99	Enh.Timpani 49	0	96	Strings     	97	Strings 2   	98	St.Strings  	99	St.Strings 2	1	96	Orchestra   	97	Orchestra 2 	98	St.Orchestra	99	St.Orchestr2	2	96	60'Strings  	97	Oct.Strings 	98	St.OctStr 1 	99	St.OctStr 2 50	0	96	Slow Strings	97	SlowStrings2	98	St.Slow Str 	99	St.Slow Str251	0	96	Syn.Strings1	97	BriteSyn.Str	98	StackSyn.Str	99	JP Strings  	1	96	Syn.Strings3	97	Oct.SynStr 1	98	Oct.SynStr 2	99	PhaseSyn.Str52	0	96	Syn.Strings2	97	Warm SynStr1	98	Warm SynStr2	99	OB Strings  53	0	96	Choir Aahs  	97	Large Choir 	98	St.ChoirAahs	99	Rich Choir  	1	96	Choir Aahs 2	97	Small Choir 	98	St.Sm Choir 	99	St.Sm Choir254	0	96	Voice Oohs  	97	Voice Oohs 2	98	St.Vox Oohs 	99	Enh.Vox Oohs	1	96	Hamming     	97	Hamming 2   	98	St.Hamming  	99	Enh.Hamming 55	0	96	SynVox      	97	SynVox 2    	98	St.SynVox   	99	Phase SynVox	1	96	Ana Voice   	97	Ana Voice 2 	98	Ana Voice 3 	99	Lead Ana.Vox56	0	96	Orchestrahit	97	Orc Hit 2   	98	St.Orc Hit  	99	Enh.Orc Hit 	1	96	Bass Hit    	97	Bass Hit 2  	98	St.Bass Hit 	99	PhaseBassHit	2	96	6th Hit     	97	6th Hit 2   	98	St.6th Hit  	99	Dly.6th Hit 	3	96	Euro Hit    	97	Euro Hit 2  	98	St.Euro Hit 	99	Dly.Euro Hit57	0	96	Trumpet     	97	Solo Trumpet	98	Romantic Tp 	99	Enh.Trumpet 	1	96	Dark Trumpet	97	Mild Trumpet	98	Tp.Dark vib 	99	Warm Trumpet58	0	96	Trombone    	97	Solo Bone   	98	Trombone vib	99	Enh.Trombone	1	96	Trombone 2  	97	Solo Bone 2 	98	Trombone2vib	99	Enh.Bone 2  	2	96	Brite Bone  	97	Brite Bone 2	98	Br.Bone vib 	99	Enh.Br Bone 59	0	96	Tuba        	97	Tuba 2      	98	Tuba vib    	99	Chorus Tuba 60	0	96	MuteTrumpet 	97	MuteTrumpet2	98	Solo MutedTp	99	Enh.Muted Tp	1	96	MuteTrumpet2	97	Harmon Mute 	98	Harmon Mute2	99	Enh.MutedTp261	0	96	French Horns	97	FrenchHorns2	98	St.Fr Horns 	99	Enh.StFrHorn	1	96	Fr.Horn     	97	MildFr.Horns	98	St.Fr Horns2	99	Warm Horns  62	0	96	Brass 1     	97	Brass FF    	98	St.Brass    	99	St.Big Brass	1	96	Brass 2     	97	BrassSection	98	St.Brass 2  	99	Enh.Brs Sect63	0	96	SynthBrass 1	97	JP Syn.Brass	98	Hyper Brass 	99	SuperJP Brs1	1	96	SynthBrass 3	97	JPSyn.Brass2	98	Stack Brass 	99	Lead Brass  	2	96	Oct.SynBrass	97	OctSynBrass2	98	OctSynBrass3	99	Phase OctBrs	3	96	Jump Brass  	97	80's Brass  	98	SuperSaw Brs	99	SuperJP Brs264	0	96	SynthBrass 2	97	MG Syn.Horn 	98	Warm SynHorn	99	WarmSynHorn2	1	96	SynthBrass 4	97	OB Syn.Horn 	98	Rich SynHorn	99	Phase Horn  	2	96	Velo Brass  	97	CS Syn.Brass	98	P5 Syn.Brass	99	Fat Pro Bras65	0	96	Soprano Sax 	97	Soprano Sax2	98	Sop.Sax vib 	99	Enh.Sop Sax 66	0	96	Alto Sax    	97	Breathy Alto	98	AltoSoft vib	99	Enh.Alto Sax67	0	96	Tenor Sax   	97	BreathyTenor	98	Blow Tenor  	99	Enh.TenorSax68	0	96	Bariton Sax 	97	Barely Bari 	98	Bari.Sax vib	99	Enh.Bari Sax69	0	96	Oboe        	97	Brite Oboe  	98	Classic Oboe	99	Enh.Oboe    70	0	96	EnglishHorn 	97	EnglishHorn2	98	E.Horn vib  	99	Enh.E Horn  71	0	96	Bassoon     	97	Bassoon 2   	98	Bassoon vib 	99	Enh.Bassoon 72	0	96	Clarinet    	97	Br.Clarinet 	98	JazzClarinet	99	Jz.Clarinet273	0	96	Piccolo     	97	Piccolo 2   	98	Piccolo vib 	99	Enh.Piccolo 74	0	96	Flute       	97	Flute 2     	98	Flute vib   	99	Enh.Flute   75	0	96	Recorder    	97	Recorder 2  	98	Recorder vib	99	Enh.Recorder76	0	96	Pan Flute   	97	Pan Flute 2 	98	PanFlute vib	99	Cho.PanFlute77	0	96	Bottle Blow 	97	Bottle Blow2	98	Bottle vib  	99	Phase Bottle78	0	96	Shakuhachi  	97	Shakuhachi 2	98	Shaku.vib   	99	Delay Shaku 79	0	96	Whistle     	97	Whistle 2   	98	Whistle vib 	99	DelayWhistle80	0	96	Ocarina     	97	Ocarina 2   	98	Ocarina vib 	99	DelayOcarina81	0	96	Square Wave 	97	MG Square   	98	OB Square   	99	OBSquareLead	1	96	Square      	97	Fat Square  	98	Fat Square2 	99	Phase Square	2	96	Sine Wave   	97	2600 Sine   	98	2600 Sine 2 	99	Sine Lead   82	0	96	Saw Wave    	97	JP Saw Wave 	98	Oct.JP Saw  	99	KeySync Saw 	1	96	Saw         	97	MG Saw      	98	Hybrit Saw  	99	Flanging Saw	2	96	Doctor Solo 	97	Fat Saw Solo	98	Hybrit Solo 	99	Doctor Lead 	3	96	Natural Lead	97	P5 Saw Lead 	98	MG Saw Lead 	99	Fat Saw Lead	4	96	SequencedSaw	97	MG Sequence 	98	DelaySeqence	99	PhaseSeqence83	0	96	Syn.Calliope	97	SynCalliope2	98	SynCalliope3	99	LeadCalliope84	0	96	Chiffer Lead	97	ChifferLead2	98	ChifferLead3	99	Chiffers    85	0	96	Charang     	97	Charang 2   	98	Charang 3   	99	Charang Lead	1	96	Wire Lead   	97	Wire Lead 2 	98	Wire Lead 3 	99	Phase Wire  86	0	96	Solo Vox    	97	Solo Vox 2  	98	Solo Vox 3  	99	SoloVox Lead87	0	96	5th SawWave 	97	5th SawWave2	98	5th SawWave3	99	Flanging 5th88	0	96	Bass & Lead 	97	Bass & Lead2	98	Bass & Lead3	99	Phase BsLead	1	96	DelayedLead 	97	DelayedLead2	98	DelayedLead3	99	Suffle Lead 89	0	96	Fantasia    	97	Fantasia 2  	98	Fantasia 3  	99	New Fantasia90	0	96	Warm Pad    	97	Warm Pad 2  	98	Warm Pad 3  	99	Phase Pad   	1	96	Sine Pad    	97	Sine Pad 2  	98	Sine Pad 3  	99	Chorus Sine 91	0	96	Polysynth   	97	Polysynth 2 	98	Polysynth 3 	99	KeySyncSynth92	0	96	SpaceVoice  	97	SpaceVoice 2	98	SpaceVoice 3	99	Phase Voice 	1	96	Itopia      	97	Itopia 2    	98	Itopia 3    	99	Pan Itopia  93	0	96	BowedGlass  	97	BowedGlass 2	98	BowedGlass 3	99	Ring Glass  94	0	96	Metal Pad   	97	Metal Pad 2 	98	Metal Pad 3 	99	Space Pad   95	0	96	Halo Pad    	97	Halo Pad 2  	98	Halo Pad 3  	99	Phase Halo  96	0	96	Sweep Pad   	97	Sweep Pad 2 	98	Sweep Pad 3 	99	Flanging Pad97	0	96	Ice Rain    	97	Ice Rain 2  	98	Ice Rain 3  	99	Reverse Rain98	0	96	Soundtrack  	97	Soundtrack 2	98	Soundtrack 3	99	Phase Track 99	0	96	Crystal     	97	Crystal 2   	98	Crystal 3   	99	3D Crystal  	1	96	Syn Mallet  	97	Syn Mallet 2	98	Syn Mallet 3	99	Phase Mallet100	0	96	Atmosphere  	97	Atmosphere 2	98	Atmosphere 3	99	Pan Atmos   101	0	96	Brightness  	97	Brightness 2	98	Brightness 3	99	Bright Star 102	0	96	Goblin      	97	Goblin 2    	98	Goblin 3    	99	Rev Goblin  103	0	96	Echo Drops  	97	Echo Drops 2	98	Echo Drops 3	99	Delay Drops 	1	96	Echo Bell   	97	Echo Bell 2 	98	Echo Bell 3 	99	Delay Bell  	2	96	Echo Pan    	97	Echo Pan 2  	98	Echo Pan 3  	99	Delay Pan   104	0	96	Star Theme  	97	Star Theme 2	98	Star Theme 3	99	Phase Theme 105	0	96	Sitar       	97	Atk Sitar   	98	St.Sitar    	99	Enh.Sitar   	1	96	Sitar 2     	97	Atk Sitar 2 	98	St.Sitar 2  	99	FantasySitar106	0	96	Banjo       	97	Banjo 2     	98	St.Banjo    	99	St.Banjo 2  107	0	96	Shamisen    	97	Shamisen 2  	98	St.Shamisen 	99	St.Shamisen2108	0	96	Koto        	97	Koto 2      	98	St.Koto     	99	St.Koto 2   	1	96	Taisho Koto 	97	Taisho Koto2	98	St.T Koto   	99	St.T Koto 2 109	0	96	Kalimba     	97	Kalimba 2   	98	St.Kalimba  	99	Trem.Kalimba110	0	96	Bag Pipe    	97	Bag Pipe 2  	98	St.Bag Pipe 	99	Enh.Bag Pipe111	0	96	Fiddle      	97	Fiddle vib  	98	Fiddle 2 vib	99	Enh.Fiddle  112	0	96	Shanai      	97	Shanai 2    	98	St.Shanai   	99	Enh.Shanai  113	0	96	Tinkle Bell 	97	->	98	->	99	->114	0	96	Agogo       	97	->	98	->	99	->115	0	96	Steel Drums 	97	->	98	->	99	->116	0	96	Woodblock   	97	->	98	->	99	->	1	96	Castanet    	97	->	98	->	99	->117	0	96	Taiko       	97	->	98	->	99	->	1	96	Concert BD  	97	->	98	->	99	->118	0	96	Melo.Tom 1  	97	->	98	->	99	->	1	96	Melo.Tom 2  	97	->	98	->	99	->119	0	96	Synth Drum  	97	->	98	->	99	->	1	96	808 tom     	97	->	98	->	99	->	2	96	Elec Perc   	97	->	98	->	99	->120	0	96	Reverse Cym 	97	->	98	->	99	->121	0	96	GtFret Noise	97	->	98	->	99	->	1	96	Gt.Cut Noise	97	->	98	->	99	->	2	96	Slap_St.Bass	97	->	98	->	99	->122	0	96	Breath Noise	97	->	98	->	99	->	1	96	Fl.Key Click	97	->	98	->	99	->123	0	96	Seashore    	97	->	98	->	99	->	1	96	Rain        	97	->	98	->	99	->	2	96	Thunder     	97	->	98	->	99	->	3	96	Wind        	97	->	98	->	99	->	4	96	Stream      	97	->	98	->	99	->	5	96	Bubble      	97	->	98	->	99	->124	0	96	Bird Tweet  	97	->	98	->	99	->	1	96	Dog         	97	->	98	->	99	->	2	96	Horse Gallop	97	->	98	->	99	->	3	96	Bird Tweet 2	97	->	98	->	99	->125	0	96	Telephone   	97	->	98	->	99	->	1	96	Telephone 2 	97	->	98	->	99	->	2	96	Door Creak  	97	->	98	->	99	->	3	96	Door        	97	->	98	->	99	->	4	96	Scratch     	97	->	98	->	99	->	5	96	Wind Chimes 	97	->	98	->	99	->126	0	96	Helicopter  	97	->	98	->	99	->	1	96	Car-Engine  	97	->	98	->	99	->	2	96	Car-Stop    	97	->	98	->	99	->	3	96	Car-Pass    	97	->	98	->	99	->	4	96	Car-Crash   	97	->	98	->	99	->	5	96	Siren       	97	->	98	->	99	->	6	96	Train       	97	->	98	->	99	->	7	96	Jetplane    	97	->	98	->	99	->	8	96	Starship    	97	->	98	->	99	->	9	96	Burst Noise 	97	->	98	->	99	->127	0	96	Applause    	97	->	98	->	99	->	1	96	Laughing    	97	->	98	->	99	->	2	96	Screaming   	97	->	98	->	99	->	3	96	Punch       	97	->	98	->	99	->	4	96	Heart Beat  	97	->	98	->	99	->	5	96	Footsteps   	97	->	98	->	99	->128	0	96	Gunshot     	97	->	98	->	99	->	1	96	Machine Gun 	97	->	98	->	99	->	2	96	Lasergun    	97	->	98	->	99	->	3	96	Explosion   	97	->	98	->	99	->-------------------------------------------------------------------------------------------------------------SD-80/SD-90 Special Set Instruments List-------------------------------------------------------------------------------------------------------------"Tones with # marks are also used in the Enhance Map."	PC	LSB	MSB	Special 1		PC	LSB	MSB	Special 2	1	0	80	D.L.A.Pad   		1	0	81	Blown Bass  	2	0	80	BrushingSaw 		2	0	81	Enh.Violin  	#3	0	80	Xtremities  		3	0	81	Solo Violin 	4	0	80	Atmostrings 		4	0	81	Enh.Cello   	#5	0	80	Noo Tongs   		5	0	81	Overture Str	6	0	80	Mistery     		6	0	81	St.Trem Str2	#7	0	80	EastrnEurope		7	0	81	St.Strings 2	#8	0	80	Harpsi&Str  		8	0	81	Intim8String	9	0	80	Shout Gt    	 	9	0	81	Str&Brs Orch	10	0	80	Clean Chorus	 	10	0	81	St.Orchestr2	#11	0	80	Mid Boost Gt	 	11	0	81	St.Slow Str2	#12	0	80	Guitarvibe  	 	12	0	81	ChamberPlyrs	13	0	80	Cluster Sect		13	0	81	Prelude     	14	0	80	Mariachi Tp 		14	0	81	Tape Strings	15	0	80	NY Tenor    		15	0	81	JP Strings  	#16	0	80	Jazz Club   		16	0	81	PhaseSyn.Str	#17	0	80	Moody Alto  		17	0	81	SciFi Choir 	18	0	80	Fuji Yama   		18	0	81	Rich Choir  	#19	0	80	SD Piano    	#	19	0	81	St.Sm Choir2	#20	0	80	Piano&Str   		20	0	81	Tron Choir  	21	0	80	WarmVoxPiano		21	0	81	ScatterDanze	22	0	80	Enh.E Grand 	#	22	0	81	Choral Brass	23	0	80	Brite Honky 	#	23	0	81	Vocal Keys  	24	0	80	Ambient EP  		24	0	81	SampleThe80s	25	0	80	Rhase Dyno  	#	25	0	81	Spectravox  	26	0	80	Wah Dyno    		26	0	81	Formantic   	27	0	80	Voweling EP 	 	27	0	81	Vocoder Wave	28	0	80	Stage 73    	#	28	0	81	Enh.Muted Tp	#29	0	80	NY Rhodes   	#	29	0	81	St.Big Brass	#30	0	80	Amped Wurlie		30	0	81	ConcertHorns	31	0	80	Dirty Wurlie		31	0	81	Brass Orch  	32	0	80	PhaseFlangEP	 	32	0	81	Loose Lips  	33	0	80	Dist Wurly  	 	33	0	81	Multi Brass 	34	0	80	Xmod EP     		34	0	81	SuperJP Brs1	#35	0	80	EP+Followers	 	35	0	81	SuperJP Brs2	#36	0	80	Backrhodes  		36	0	81	DragginBrass	37	0	80	FM Delight  		37	0	81	Enh.Alto Sax	#38	0	80	Enh.Legend  	#	38	0	81	Enh.TenorSax	#39	0	80	Phasing EP  	#	39	0	81	Enh.Bari Sax	#40	0	80	Comp Clav   	#	40	0	81	Sax's Sect  	41	0	80	Vibarimba   		41	0	81	Reed Romance	42	0	80	FM layer    		42	0	81	U.S.Patrol  	43	0	80	Vibey Flute 		43	0	81	Enh.Oboe    	#44	0	80	Chime Bells 		44	0	81	Jz.Clarinet2	#45	0	80	The Big Spin		45	0	81	Enh.Flute   	#46	0	80	Roller Spin 		46	0	81	Tron Flutes 	47	0	80	Rocker Spin 	#	47	0	81	Flute&Clari 	48	0	80	Tone Wh.Solo	#	48	0	81	Orch Reeds  	49	0	80	Purple Spin 		49	0	81	Delay Shaku 	#50	0	80	RingingOrgan	 	50	0	81	DelayOcarina	#51	0	80	60's LeadOrg		51	0	81	DynOrchestra	52	0	80	DistLead Org	 	52	0	81	Celtic Ens  	53	0	80	Assalt Organ		53	0	81	Early Ens   	54	0	80	Perky Spin  	#	54	0	81	WoodSymphony	55	0	80	Gospel Spin 	#	55	0	81	ViennaWoods2	56	0	80	Boogie Organ		56	0	81	Stage Woods 	57	0	80	Klubb Organ 		57	0	81	TremoloFlute	58	0	80	96 Year     	#	58	0	81	SupportWoods	59	0	80	OrganInStone	 	59	0	81	Fiddle&Oboe 	60	0	80	StringsOrgan	 	60	0	81	Mono Blues  	61	0	80	Cathdr Pipes		61	0	81	TravlnFlutes	62	0	80	Enh.Theater 	#	62	0	81	DistordedSAW	63	0	80	Ld.Harmonica	#	63	0	81	The Leader  	64	0	80	Guitar&Str  		64	0	81	SH-2 Lead   	65	0	80	Elec Gut Gt 	 	65	0	81	JP-6 Lead   	66	0	80	Chorus GutGt	 	66	0	81	Glassy Saws 	67	0	80	Enh.Nylon Gt	#	67	0	81	Too Pure    	68	0	80	CompSteel Gt	 	68	0	81	Mono Analog 	69	0	80	Elec Aco.Gt 	 	69	0	81	Charang Lead	#70	0	80	Hard Steel  	 	70	0	81	Phase Wire  	#71	0	80	Comp OVSteel	#	71	0	81	Flanging 5th	#72	0	80	DelayedSteel	#	72	0	81	BOG         	73	0	80	Wah Steel Gt	 	73	0	81	Solo Twang  	74	0	80	Soft Steel  	 	74	0	81	Koto Power  	75	0	80	Lead Jazz Gt	#	75	0	81	Dulcid Solo 	76	0	80	Hawaian Gt  	#	76	0	81	Wine Guitar 	77	0	80	Solo Jazz Gt	#	77	0	81	Leapin' Keys	78	0	80	Old Clean Gt	#	78	0	81	New Fantasia	#79	0	80	Jazz Chorus 	#	79	0	81	MilleniumStr	80	0	80	Fat Clean   	 	80	0	81	OB Borealis 	81	0	80	Space-D Gt  	 	81	0	81	Wet Glass   	82	0	80	Whammy Gt   	 	82	0	81	VintagePhase	83	0	80	Trem&Cho Gt 	 	83	0	81	P-layer     	84	0	80	Long DLY.Gt 	 	84	0	81	Ring Glass  	#85	0	80	Comp FeedBK 	 	85	0	81	5th Atm /Aft	86	0	80	ChaseDL Mute	 	86	0	81	Combing     	87	0	80	Wah Funk Pop	#	87	0	81	Modular Life	88	0	80	Old Blues   	 	88	0	81	KeySyncSynth	#89	0	80	335 Drive   	#	89	0	81	Phase Track 	#90	0	80	335 Drive2  	 	90	0	81	3D Crystal  	#91	0	80	SmallAMP OD 	 	91	0	81	Bright Star 	#92	0	80	CountrySlide	 	92	0	81	Technoheadz 	93	0	80	335 Comp    	 	93	0	81	Techno Cave 	94	0	80	TC Lead Gt  	#	94	0	81	Wedo-Wodo   	95	0	80	Lead Mild Gt	 	95	0	81	Dance Sweet 	96	0	80	Crunch Gt   	 	96	0	81	Dancefloor  97	0	80	Auto Wah Gt 	 	97	0	81	Frogcillator98	0	80	Folmant Gt  	 	98	0	81	Dance Zipper99	0	80	Fuzz Gt     	 	99	0	81	Lo-fi Chord 100	0	80	MonoPhase Gt	 	100	0	81	Sliced      101	0	80	2 Layer Gt  	 	101	0	81	Dance Chop  102	0	80	MonoDLY Dist	 	102	0	81	GO WILD!    103	0	80	Step FLG Gt 	 	103	0	81	Tropics     104	0	80	335 Fuzz    	 	104	0	81	FM Fx Bells 105	0	80	Drive Funk  	 	105	0	81	CrystalGlass106	0	80	Loud & Metal	 	106	0	81	Borealis    107	0	80	Heavy DistGt	#	107	0	81	Circular Pad108	0	80	Power Mute  	 	108	0	81	Oxigenizer  109	0	80	Muted OD    	#	109	0	81	Quasar      110	0	80	Combo Drive 	 	110	0	81	PsycheSweep 111	0	80	Ring Gt.    	 	111	0	81	Hell Section112	0	80	Scream Drive	 	112	0	81	DigitalDrone	113	0	80	Gt.Pinch Wah	 	113	0	81	Harp Drop   	114	0	80	Power DistGt	 	114	0	81	Runaway Rez 	115	0	80	Triple Gt   	 	115	0	81	Wacky Pizzer	116	0	80	Reverse Harm	 	116	0	81	Reverse Rain	#117	0	80	Drivin'Uprit	 	117	0	81	Starburst   	118	0	80	Enh.Aco Bass	#	118	0	81	Tongan Delay	119	0	80	Pre Bass    	#	119	0	81	Cascade     	120	0	80	Comp Finger 	#	120	0	81	Legat~Stacat	121	0	80	Octrv Finger	 	121	0	81	Rev Goblin  	#122	0	80	Rock Bass   	#	122	0	81	FantasySitar	#123	0	80	Dist Bass   	 	123	0	81	Rising Sun  	124	0	80	Solo Fretles	 	124	0	81	Green Tea   	125	0	80	WahSlapBass 	 	125	0	81	Jimmy's Koto	126	0	80	Froggy Bass 		126	0	81	Fly 2 India 	127	0	80	3D TB-303   		127	0	81	IndianSpirit	128	0	80	Acid Dist Bs	#	128	0	81	Gt/BsNz MENU
+-------------------------------------------------------------------------------------------------------------
+SD-80/SD-90 Native Instruments List
+-------------------------------------------------------------------------------------------------------------
+PC	LSB	MSB	Classical Map	MSB	Contemporary Map	MSB	Solo Map	MSB	Enhanced Map
+1	0	96	Piano 1     	97	Ac.Piano    	98	St.Piano 1  	99	SD Piano    
+	1	96	Piano 1w    	97	Ac.Piano w  	98	St.Piano 1w 	99	SD Piano w  
+	2	96	Piano 1d    	97	Mild Piano  	98	European Pf 	99	Classic Pf  
+2	0	96	Piano 2     	97	Rock Piano  	98	St.Piano 2  	99	Enh.Piano 2 
+	1	96	Piano 2w    	97	Rock Piano w	98	St.Piano 2w 	99	Enh.Piano 2w
+3	0	96	Piano 3     	97	E.Grand Pf  	98	SA Piano    	99	Enh.E Grand 
+	1	96	Piano 3w    	97	E.Grand Pf w	98	SA Piano w  	99	Enh.E Grandw
+4	0	96	Honky-tonk  	97	Old Honky   	98	St.Honky    	99	Brite Honky 
+	1	96	Honky-tonk w	97	Old Honky w 	98	St.Honky w  	99	Brite Honkyw
+5	0	96	E.Piano 1   	97	Soft Rhodes 	98	Tremo Rhodes	99	Stage 73    
+	1	96	Detuned EP1 	97	Fat Rhodes  	98	Sweet Tynes 	99	NY Rhodes   
+	2	96	Dyno Rhodes 	97	Rhodes Wide 	98	Tremo Dyno  	99	Rhase Dyno  
+	3	96	60's E.Piano	97	Wurly Soft  	98	Tremo Wurly 	99	Whirly      
+6	0	96	E.Piano 2   	97	FM E.Piano  	98	FM Hard EP  	99	Chorus EP   
+	1	96	Detuned EP2 	97	Soft FM EP  	98	Brite FM EP 	99	Phase FM EP 
+	2	96	E.Piano 2v  	97	SA E.Piano  	98	Brite FM EP2	99	Wah FM EP   
+	3	96	EP Legend   	97	EP Legend 2 	98	EP Legend 3 	99	Enh.Legend  
+	4	96	EP Phase    	97	EP Phase 2  	98	EP Phase 3  	99	Phasing EP  
+7	0	96	Harpsichord 	97	Harpsi 2    	98	St.Harpsichd	99	Enh.Harpsi  
+	1	96	Coupl hps   	97	Coupl hps 2 	98	St.Coupl hps	99	Enh.Coupl hp
+	2	96	Harpsi w    	97	Harpsi 2 w  	98	St.Harpsi w 	99	Enh.Harpsi w
+	3	96	Harpsi o    	97	Harpsi 2 o  	98	St.Harpsi o 	99	Enh.Harpsi o
+8	0	96	Clav        	97	Atack Clav 1	98	Atack Clav 2	99	Comp Clav   
+	1	96	Pulse Clav  	97	AnalogClav 1	98	AnalogClav 2	99	Wah Ana.Clav
+9	0	96	Celesta     	97	Celesta 2   	98	St.Celesta  	99	SpaceCelesta
+10	0	96	Glockenspiel	97	Glocken 2   	98	St.Glocken  	99	Trem.Glocken
+11	0	96	Music Box   	97	Music Box 2 	98	St.Music Box	99	Panning Box 
+12	0	96	Vibraphone  	97	Vibraphone 2	98	St.Vibra    	99	Trem.Vibra  
+	1	96	Vibraphone w	97	Vibraphone2w	98	St.Vibra w  	99	Trem.Vibra w
+13	0	96	Marimba     	97	Marimba 2   	98	St.Marimba  	99	Enh.Marimba 
+	1	96	Marimba w   	97	Marimba 2 w 	98	St.Marimba w	99	Enh.Marimbaw
+14	0	96	Xylophone   	97	Xylophone 2 	98	St.Xylophone	99	Enh.Xylophon
+15	0	96	Tubular-bell	97	Tubular-bel2	98	St.Tubular  	99	Trem.Tubula 
+	1	96	Church Bell 	97	Church Bell2	98	St.Church   	99	Echo Church 
+	2	96	Carillon    	97	Carillon 2  	98	St.Carillon 	99	Trm.Carillon
+16	0	96	Santur      	97	Santur 2    	98	St.Santur   	99	Enh.Santur  
+17	0	96	Organ 1     	97	Perky       	98	Roller      	99	Perky Spin  
+	1	96	Detuned Or1 	97	Ballad B    	98	Rocker      	99	Gospel Spin 
+	2	96	Organ 60    	97	Happy 60s   	98	Soft60'Organ	99	96 Year     
+	3	96	Organ 4     	97	Tone Wheel  	98	Full Stops  	99	Tone Wh.Solo
+18	0	96	Organ 2     	97	Jazz Organ 1	98	Jazz Organ 2	99	Jazzy Spin  
+	1	96	Detuned Or2 	97	Perc.Organ 1	98	Perc.Organ 2	99	Jazzy Spin 2
+	2	96	Organ 5     	97	Dist.JzOrg 1	98	Dist.JzOrg 2	99	Jazzy Spin 3
+19	0	96	Organ 3     	97	Organ 3 fast	98	Rock Organ  	99	Rocker Spin 
+20	0	96	Church 1    	97	Pipe Organ 1	98	Pipe Organ 2	99	Amb.Church  
+	1	96	Church 2    	97	LargeChurch1	98	LargeChurch2	99	Amb.Church 2
+	2	96	Church 3    	97	SmallChurch1	98	SmallChurch2	99	Amb.Church 3
+21	0	96	Reed Organ  	97	Reed Organ 2	98	Reed Organ 3	99	Old Reed Org
+	1	96	Puff Organ  	97	Organ Flute 	98	Theater     	99	Enh.Theater 
+22	0	96	Accordion F 	97	French Acc  	98	St.FrenchAcc	99	Enh.French  
+	1	96	Accordion I 	97	It Muset    	98	St.It Muset 	99	Enh.ItMuset 
+23	0	96	Harmonica   	97	Harmonica 2 	98	St.Harmonica	99	Ld.Harmonica
+24	0	96	Bandneon    	97	Bandneon 1  	98	St.Bandneon 	99	Enh.Bandneon
+25	0	96	Nylon Gt    	97	Nylon Gt 2  	98	Nylon Gt 3  	99	Enh.Nylon Gt
+	1	96	Ukulele     	97	Ukulele 2   	98	Ukulele 3   	99	Enh.Ukulele 
+	2	96	Nylon o     	97	Nylon 2 o   	98	Nylon 3 o   	99	Enh.Nylon o 
+	3	96	Nylon Gt.2  	97	Hard Gut Gt 	98	Hard Gut Gt2	99	Enh.Gut Gt  
+26	0	96	Steel-str.Gt	97	OV Steel Gt 	98	SteelStr.Gt2	99	Comp OVSteel
+	1	96	12-Str.Gt   	97	12-Str.Gt 2 	98	12-Str.Gt 3 	99	3D 12-Str.Gt
+	2	96	Mandolin    	97	Mandolin 2  	98	Mandolin 3  	99	Enh.Mandolin
+	3	96	Steel+Body  	97	Steel+Body 2	98	Steel+Body 3	99	DelayedSteel
+27	0	96	Jazz Gt     	97	Jazz Gt 2   	98	Jazz Gt 3   	99	Lead Jazz Gt
+	1	96	Pedal Steel 	97	Pedal Steel2	98	Pedal Steel3	99	Hawaian Gt  
+28	0	96	Clean Rear  	97	TC Rear     	98	Strat2 Rear 	99	Old Clean Gt
+	1	96	Clean Half  	97	TC Front    	98	Chorus Clean	99	Jazz Chorus 
+	2	96	Mid Tone Gt 	97	TC Front 2  	98	335	99	335 Drive   
+29	0	96	Muted Gt    	97	TC Mute Gt  	98	TC Mute Gt 2	99	Comp Mute Gt
+	1	96	Funk Gt     	97	FunkGt Slap 	98	FunkGt.Slap2	99	Enh.Funk Gt 
+	2	96	Funk Gt 2   	97	Funk Pop    	98	Funk Pop 2  	99	Wah Funk Pop
+	3	96	Jazz Man    	97	Mute Jazz Gt	98	Slap Jazz Gt	99	Solo Jazz Gt
+30	0	96	Overdrive Gt	97	Atk Drive Gt	98	OverdriveGt2	99	TC Lead Gt  
+	1	96	Gt.Pinch    	97	Gt.Pinch 2  	98	Gt.Pinch 3  	99	Gt.PinchLead
+31	0	96	DistortionGt	97	Atk Dist Gt 	98	Dist.Gt 2   	99	Heavy DistGt
+	1	96	Feedback Gt 	97	FeedbackGt 2	98	Feedback OD 	99	Feedbacker  
+	2	96	DistRythm Gt	97	Muted Dist  	98	Muted Dist 2	99	Muted OD    
+32	0	96	Gt.Harmonics	97	Gt.Harm 2   	98	Gt.OctHarm  	99	Amp.Harm    
+	1	96	Gt.Feedback 	97	FeedbackOct 	98	FeedbackHarm	99	Amp.FeedBack
+33	0	96	Acoustic Bs 	97	Rockabilly  	98	Fat Aco.Bass	99	Enh.Aco Bass
+34	0	96	Fingered Bs 	97	Fingered Bs2	98	Jazz Bass   	99	Pre Bass    
+	1	96	FingerJ.Bass	97	FingerP.Bass	98	Finger Slap 	99	Comp Finger 
+35	0	96	Picked Bass 	97	Picked Jz Bs	98	Picking Bass	99	Rock Bass   
+36	0	96	Fretless Bs 	97	Fretless Bs2	98	PhaseFrtless	99	Cho.Fretless
+37	0	96	Slap Bass 1 	97	Slap Pop 1  	98	Jazz Slap   	99	Phase Slap  
+38	0	96	Slap Bass 2 	97	Funky Slap  	98	Slap Pop 2  	99	Enh.Slap Pop
+39	0	96	Synth Bass 1	97	MG303 Bass  	98	Fat Syn.Bass	99	Dist303 Bass
+	1	96	SynthBass101	97	MG Bass     	98	SynthSaw Bs 	99	P.Shift Bass
+	2	96	Acid Bass   	97	MG Acid Bass	98	AcidBs Dirty	99	Acid Dist Bs
+	3	96	Clavi Bass  	97	Clavi Bass 2	98	Clavi Bass 3	99	PhaseClaviBs
+	4	96	Hammer      	97	OB Hammer   	98	MG Hammer   	99	Enh.Hammer  
+40	0	96	Synth Bass 2	97	Seq101 Bass 	98	Sq SynthBass	99	PhaseSq Bass
+	1	96	Beef FM Bs  	97	Beef Slap Bs	98	Beef Saw Bs 	99	Enh.Beef Bs 
+	2	96	Rubber Bass 	97	Rubber Bass2	98	JpSaw Rubber	99	Fat JpSaw Bs
+	3	96	Attack Pulse	97	Attack Saw  	98	Attack MG Bs	99	Enh.MG Bass 
+41	0	96	Violin      	97	Violin vib  	98	Violin 2 vib	99	Enh.Violin  
+	1	96	Slow Violin 	97	Slow Vln vib	98	SlowVln2 vib	99	Enh.Slow Vln
+42	0	96	Viola       	97	Viola vib   	98	Viola2 vib  	99	Enh.Viola   
+43	0	96	Cello       	97	Cello vib   	98	Cello2 vib  	99	Enh.Cello   
+44	0	96	Contrabass  	97	Cb vib      	98	Cb2 vib     	99	Enh.Cb      
+45	0	96	Tremolo Str 	97	Tremolo Str2	98	St.Trem Str 	99	St.Trem Str2
+46	0	96	Pizzicato   	97	Pizzicato 2 	98	St.Pizzicato	99	Chorus Pizz 
+47	0	96	Harp        	97	Harp 2      	98	St.Harp     	99	Chorus Harp 
+	1	96	Yangqin     	97	Yangqin 2   	98	St.Yangqin  	99	Enh.Yangqin 
+48	0	96	Timpani     	97	Timpani 2   	98	St.Timpani  	99	Enh.Timpani 
+49	0	96	Strings     	97	Strings 2   	98	St.Strings  	99	St.Strings 2
+	1	96	Orchestra   	97	Orchestra 2 	98	St.Orchestra	99	St.Orchestr2
+	2	96	60'Strings  	97	Oct.Strings 	98	St.OctStr 1 	99	St.OctStr 2 
+50	0	96	Slow Strings	97	SlowStrings2	98	St.Slow Str 	99	St.Slow Str2
+51	0	96	Syn.Strings1	97	BriteSyn.Str	98	StackSyn.Str	99	JP Strings  
+	1	96	Syn.Strings3	97	Oct.SynStr 1	98	Oct.SynStr 2	99	PhaseSyn.Str
+52	0	96	Syn.Strings2	97	Warm SynStr1	98	Warm SynStr2	99	OB Strings  
+53	0	96	Choir Aahs  	97	Large Choir 	98	St.ChoirAahs	99	Rich Choir  
+	1	96	Choir Aahs 2	97	Small Choir 	98	St.Sm Choir 	99	St.Sm Choir2
+54	0	96	Voice Oohs  	97	Voice Oohs 2	98	St.Vox Oohs 	99	Enh.Vox Oohs
+	1	96	Hamming     	97	Hamming 2   	98	St.Hamming  	99	Enh.Hamming 
+55	0	96	SynVox      	97	SynVox 2    	98	St.SynVox   	99	Phase SynVox
+	1	96	Ana Voice   	97	Ana Voice 2 	98	Ana Voice 3 	99	Lead Ana.Vox
+56	0	96	Orchestrahit	97	Orc Hit 2   	98	St.Orc Hit  	99	Enh.Orc Hit 
+	1	96	Bass Hit    	97	Bass Hit 2  	98	St.Bass Hit 	99	PhaseBassHit
+	2	96	6th Hit     	97	6th Hit 2   	98	St.6th Hit  	99	Dly.6th Hit 
+	3	96	Euro Hit    	97	Euro Hit 2  	98	St.Euro Hit 	99	Dly.Euro Hit
+57	0	96	Trumpet     	97	Solo Trumpet	98	Romantic Tp 	99	Enh.Trumpet 
+	1	96	Dark Trumpet	97	Mild Trumpet	98	Tp.Dark vib 	99	Warm Trumpet
+58	0	96	Trombone    	97	Solo Bone   	98	Trombone vib	99	Enh.Trombone
+	1	96	Trombone 2  	97	Solo Bone 2 	98	Trombone2vib	99	Enh.Bone 2  
+	2	96	Brite Bone  	97	Brite Bone 2	98	Br.Bone vib 	99	Enh.Br Bone 
+59	0	96	Tuba        	97	Tuba 2      	98	Tuba vib    	99	Chorus Tuba 
+60	0	96	MuteTrumpet 	97	MuteTrumpet2	98	Solo MutedTp	99	Enh.Muted Tp
+	1	96	MuteTrumpet2	97	Harmon Mute 	98	Harmon Mute2	99	Enh.MutedTp2
+61	0	96	French Horns	97	FrenchHorns2	98	St.Fr Horns 	99	Enh.StFrHorn
+	1	96	Fr.Horn     	97	MildFr.Horns	98	St.Fr Horns2	99	Warm Horns  
+62	0	96	Brass 1     	97	Brass FF    	98	St.Brass    	99	St.Big Brass
+	1	96	Brass 2     	97	BrassSection	98	St.Brass 2  	99	Enh.Brs Sect
+63	0	96	SynthBrass 1	97	JP Syn.Brass	98	Hyper Brass 	99	SuperJP Brs1
+	1	96	SynthBrass 3	97	JPSyn.Brass2	98	Stack Brass 	99	Lead Brass  
+	2	96	Oct.SynBrass	97	OctSynBrass2	98	OctSynBrass3	99	Phase OctBrs
+	3	96	Jump Brass  	97	80's Brass  	98	SuperSaw Brs	99	SuperJP Brs2
+64	0	96	SynthBrass 2	97	MG Syn.Horn 	98	Warm SynHorn	99	WarmSynHorn2
+	1	96	SynthBrass 4	97	OB Syn.Horn 	98	Rich SynHorn	99	Phase Horn  
+	2	96	Velo Brass  	97	CS Syn.Brass	98	P5 Syn.Brass	99	Fat Pro Bras
+65	0	96	Soprano Sax 	97	Soprano Sax2	98	Sop.Sax vib 	99	Enh.Sop Sax 
+66	0	96	Alto Sax    	97	Breathy Alto	98	AltoSoft vib	99	Enh.Alto Sax
+67	0	96	Tenor Sax   	97	BreathyTenor	98	Blow Tenor  	99	Enh.TenorSax
+68	0	96	Bariton Sax 	97	Barely Bari 	98	Bari.Sax vib	99	Enh.Bari Sax
+69	0	96	Oboe        	97	Brite Oboe  	98	Classic Oboe	99	Enh.Oboe    
+70	0	96	EnglishHorn 	97	EnglishHorn2	98	E.Horn vib  	99	Enh.E Horn  
+71	0	96	Bassoon     	97	Bassoon 2   	98	Bassoon vib 	99	Enh.Bassoon 
+72	0	96	Clarinet    	97	Br.Clarinet 	98	JazzClarinet	99	Jz.Clarinet2
+73	0	96	Piccolo     	97	Piccolo 2   	98	Piccolo vib 	99	Enh.Piccolo 
+74	0	96	Flute       	97	Flute 2     	98	Flute vib   	99	Enh.Flute   
+75	0	96	Recorder    	97	Recorder 2  	98	Recorder vib	99	Enh.Recorder
+76	0	96	Pan Flute   	97	Pan Flute 2 	98	PanFlute vib	99	Cho.PanFlute
+77	0	96	Bottle Blow 	97	Bottle Blow2	98	Bottle vib  	99	Phase Bottle
+78	0	96	Shakuhachi  	97	Shakuhachi 2	98	Shaku.vib   	99	Delay Shaku 
+79	0	96	Whistle     	97	Whistle 2   	98	Whistle vib 	99	DelayWhistle
+80	0	96	Ocarina     	97	Ocarina 2   	98	Ocarina vib 	99	DelayOcarina
+81	0	96	Square Wave 	97	MG Square   	98	OB Square   	99	OBSquareLead
+	1	96	Square      	97	Fat Square  	98	Fat Square2 	99	Phase Square
+	2	96	Sine Wave   	97	2600 Sine   	98	2600 Sine 2 	99	Sine Lead   
+82	0	96	Saw Wave    	97	JP Saw Wave 	98	Oct.JP Saw  	99	KeySync Saw 
+	1	96	Saw         	97	MG Saw      	98	Hybrit Saw  	99	Flanging Saw
+	2	96	Doctor Solo 	97	Fat Saw Solo	98	Hybrit Solo 	99	Doctor Lead 
+	3	96	Natural Lead	97	P5 Saw Lead 	98	MG Saw Lead 	99	Fat Saw Lead
+	4	96	SequencedSaw	97	MG Sequence 	98	DelaySeqence	99	PhaseSeqence
+83	0	96	Syn.Calliope	97	SynCalliope2	98	SynCalliope3	99	LeadCalliope
+84	0	96	Chiffer Lead	97	ChifferLead2	98	ChifferLead3	99	Chiffers    
+85	0	96	Charang     	97	Charang 2   	98	Charang 3   	99	Charang Lead
+	1	96	Wire Lead   	97	Wire Lead 2 	98	Wire Lead 3 	99	Phase Wire  
+86	0	96	Solo Vox    	97	Solo Vox 2  	98	Solo Vox 3  	99	SoloVox Lead
+87	0	96	5th SawWave 	97	5th SawWave2	98	5th SawWave3	99	Flanging 5th
+88	0	96	Bass & Lead 	97	Bass & Lead2	98	Bass & Lead3	99	Phase BsLead
+	1	96	DelayedLead 	97	DelayedLead2	98	DelayedLead3	99	Suffle Lead 
+89	0	96	Fantasia    	97	Fantasia 2  	98	Fantasia 3  	99	New Fantasia
+90	0	96	Warm Pad    	97	Warm Pad 2  	98	Warm Pad 3  	99	Phase Pad   
+	1	96	Sine Pad    	97	Sine Pad 2  	98	Sine Pad 3  	99	Chorus Sine 
+91	0	96	Polysynth   	97	Polysynth 2 	98	Polysynth 3 	99	KeySyncSynth
+92	0	96	SpaceVoice  	97	SpaceVoice 2	98	SpaceVoice 3	99	Phase Voice 
+	1	96	Itopia      	97	Itopia 2    	98	Itopia 3    	99	Pan Itopia  
+93	0	96	BowedGlass  	97	BowedGlass 2	98	BowedGlass 3	99	Ring Glass  
+94	0	96	Metal Pad   	97	Metal Pad 2 	98	Metal Pad 3 	99	Space Pad   
+95	0	96	Halo Pad    	97	Halo Pad 2  	98	Halo Pad 3  	99	Phase Halo  
+96	0	96	Sweep Pad   	97	Sweep Pad 2 	98	Sweep Pad 3 	99	Flanging Pad
+97	0	96	Ice Rain    	97	Ice Rain 2  	98	Ice Rain 3  	99	Reverse Rain
+98	0	96	Soundtrack  	97	Soundtrack 2	98	Soundtrack 3	99	Phase Track 
+99	0	96	Crystal     	97	Crystal 2   	98	Crystal 3   	99	3D Crystal  
+	1	96	Syn Mallet  	97	Syn Mallet 2	98	Syn Mallet 3	99	Phase Mallet
+100	0	96	Atmosphere  	97	Atmosphere 2	98	Atmosphere 3	99	Pan Atmos   
+101	0	96	Brightness  	97	Brightness 2	98	Brightness 3	99	Bright Star 
+102	0	96	Goblin      	97	Goblin 2    	98	Goblin 3    	99	Rev Goblin  
+103	0	96	Echo Drops  	97	Echo Drops 2	98	Echo Drops 3	99	Delay Drops 
+	1	96	Echo Bell   	97	Echo Bell 2 	98	Echo Bell 3 	99	Delay Bell  
+	2	96	Echo Pan    	97	Echo Pan 2  	98	Echo Pan 3  	99	Delay Pan   
+104	0	96	Star Theme  	97	Star Theme 2	98	Star Theme 3	99	Phase Theme 
+105	0	96	Sitar       	97	Atk Sitar   	98	St.Sitar    	99	Enh.Sitar   
+	1	96	Sitar 2     	97	Atk Sitar 2 	98	St.Sitar 2  	99	FantasySitar
+106	0	96	Banjo       	97	Banjo 2     	98	St.Banjo    	99	St.Banjo 2  
+107	0	96	Shamisen    	97	Shamisen 2  	98	St.Shamisen 	99	St.Shamisen2
+108	0	96	Koto        	97	Koto 2      	98	St.Koto     	99	St.Koto 2   
+	1	96	Taisho Koto 	97	Taisho Koto2	98	St.T Koto   	99	St.T Koto 2 
+109	0	96	Kalimba     	97	Kalimba 2   	98	St.Kalimba  	99	Trem.Kalimba
+110	0	96	Bag Pipe    	97	Bag Pipe 2  	98	St.Bag Pipe 	99	Enh.Bag Pipe
+111	0	96	Fiddle      	97	Fiddle vib  	98	Fiddle 2 vib	99	Enh.Fiddle  
+112	0	96	Shanai      	97	Shanai 2    	98	St.Shanai   	99	Enh.Shanai  
+113	0	96	Tinkle Bell 	97	->	98	->	99	->
+114	0	96	Agogo       	97	->	98	->	99	->
+115	0	96	Steel Drums 	97	->	98	->	99	->
+116	0	96	Woodblock   	97	->	98	->	99	->
+	1	96	Castanet    	97	->	98	->	99	->
+117	0	96	Taiko       	97	->	98	->	99	->
+	1	96	Concert BD  	97	->	98	->	99	->
+118	0	96	Melo.Tom 1  	97	->	98	->	99	->
+	1	96	Melo.Tom 2  	97	->	98	->	99	->
+119	0	96	Synth Drum  	97	->	98	->	99	->
+	1	96	808 tom     	97	->	98	->	99	->
+	2	96	Elec Perc   	97	->	98	->	99	->
+120	0	96	Reverse Cym 	97	->	98	->	99	->
+121	0	96	GtFret Noise	97	->	98	->	99	->
+	1	96	Gt.Cut Noise	97	->	98	->	99	->
+	2	96	Slap_St.Bass	97	->	98	->	99	->
+122	0	96	Breath Noise	97	->	98	->	99	->
+	1	96	Fl.Key Click	97	->	98	->	99	->
+123	0	96	Seashore    	97	->	98	->	99	->
+	1	96	Rain        	97	->	98	->	99	->
+	2	96	Thunder     	97	->	98	->	99	->
+	3	96	Wind        	97	->	98	->	99	->
+	4	96	Stream      	97	->	98	->	99	->
+	5	96	Bubble      	97	->	98	->	99	->
+124	0	96	Bird Tweet  	97	->	98	->	99	->
+	1	96	Dog         	97	->	98	->	99	->
+	2	96	Horse Gallop	97	->	98	->	99	->
+	3	96	Bird Tweet 2	97	->	98	->	99	->
+125	0	96	Telephone   	97	->	98	->	99	->
+	1	96	Telephone 2 	97	->	98	->	99	->
+	2	96	Door Creak  	97	->	98	->	99	->
+	3	96	Door        	97	->	98	->	99	->
+	4	96	Scratch     	97	->	98	->	99	->
+	5	96	Wind Chimes 	97	->	98	->	99	->
+126	0	96	Helicopter  	97	->	98	->	99	->
+	1	96	Car-Engine  	97	->	98	->	99	->
+	2	96	Car-Stop    	97	->	98	->	99	->
+	3	96	Car-Pass    	97	->	98	->	99	->
+	4	96	Car-Crash   	97	->	98	->	99	->
+	5	96	Siren       	97	->	98	->	99	->
+	6	96	Train       	97	->	98	->	99	->
+	7	96	Jetplane    	97	->	98	->	99	->
+	8	96	Starship    	97	->	98	->	99	->
+	9	96	Burst Noise 	97	->	98	->	99	->
+127	0	96	Applause    	97	->	98	->	99	->
+	1	96	Laughing    	97	->	98	->	99	->
+	2	96	Screaming   	97	->	98	->	99	->
+	3	96	Punch       	97	->	98	->	99	->
+	4	96	Heart Beat  	97	->	98	->	99	->
+	5	96	Footsteps   	97	->	98	->	99	->
+128	0	96	Gunshot     	97	->	98	->	99	->
+	1	96	Machine Gun 	97	->	98	->	99	->
+	2	96	Lasergun    	97	->	98	->	99	->
+	3	96	Explosion   	97	->	98	->	99	->
+-------------------------------------------------------------------------------------------------------------
+SD-80/SD-90 Special Set Instruments List
+-------------------------------------------------------------------------------------------------------------
+"Tones with # marks are also used in the Enhance Map."	
+PC	LSB	MSB	Special 1		PC	LSB	MSB	Special 2	
+1	0	80	D.L.A.Pad   		1	0	81	Blown Bass  	
+2	0	80	BrushingSaw 		2	0	81	Enh.Violin  	#
+3	0	80	Xtremities  		3	0	81	Solo Violin 	
+4	0	80	Atmostrings 		4	0	81	Enh.Cello   	#
+5	0	80	Noo Tongs   		5	0	81	Overture Str	
+6	0	80	Mistery     		6	0	81	St.Trem Str2	#
+7	0	80	EastrnEurope		7	0	81	St.Strings 2	#
+8	0	80	Harpsi&Str  		8	0	81	Intim8String	
+9	0	80	Shout Gt    	 	9	0	81	Str&Brs Orch	
+10	0	80	Clean Chorus	 	10	0	81	St.Orchestr2	#
+11	0	80	Mid Boost Gt	 	11	0	81	St.Slow Str2	#
+12	0	80	Guitarvibe  	 	12	0	81	ChamberPlyrs	
+13	0	80	Cluster Sect		13	0	81	Prelude     	
+14	0	80	Mariachi Tp 		14	0	81	Tape Strings	
+15	0	80	NY Tenor    		15	0	81	JP Strings  	#
+16	0	80	Jazz Club   		16	0	81	PhaseSyn.Str	#
+17	0	80	Moody Alto  		17	0	81	SciFi Choir 	
+18	0	80	Fuji Yama   		18	0	81	Rich Choir  	#
+19	0	80	SD Piano    	#	19	0	81	St.Sm Choir2	#
+20	0	80	Piano&Str   		20	0	81	Tron Choir  	
+21	0	80	WarmVoxPiano		21	0	81	ScatterDanze	
+22	0	80	Enh.E Grand 	#	22	0	81	Choral Brass	
+23	0	80	Brite Honky 	#	23	0	81	Vocal Keys  	
+24	0	80	Ambient EP  		24	0	81	SampleThe80s	
+25	0	80	Rhase Dyno  	#	25	0	81	Spectravox  	
+26	0	80	Wah Dyno    		26	0	81	Formantic   	
+27	0	80	Voweling EP 	 	27	0	81	Vocoder Wave	
+28	0	80	Stage 73    	#	28	0	81	Enh.Muted Tp	#
+29	0	80	NY Rhodes   	#	29	0	81	St.Big Brass	#
+30	0	80	Amped Wurlie		30	0	81	ConcertHorns	
+31	0	80	Dirty Wurlie		31	0	81	Brass Orch  	
+32	0	80	PhaseFlangEP	 	32	0	81	Loose Lips  	
+33	0	80	Dist Wurly  	 	33	0	81	Multi Brass 	
+34	0	80	Xmod EP     		34	0	81	SuperJP Brs1	#
+35	0	80	EP+Followers	 	35	0	81	SuperJP Brs2	#
+36	0	80	Backrhodes  		36	0	81	DragginBrass	
+37	0	80	FM Delight  		37	0	81	Enh.Alto Sax	#
+38	0	80	Enh.Legend  	#	38	0	81	Enh.TenorSax	#
+39	0	80	Phasing EP  	#	39	0	81	Enh.Bari Sax	#
+40	0	80	Comp Clav   	#	40	0	81	Sax's Sect  	
+41	0	80	Vibarimba   		41	0	81	Reed Romance	
+42	0	80	FM layer    		42	0	81	U.S.Patrol  	
+43	0	80	Vibey Flute 		43	0	81	Enh.Oboe    	#
+44	0	80	Chime Bells 		44	0	81	Jz.Clarinet2	#
+45	0	80	The Big Spin		45	0	81	Enh.Flute   	#
+46	0	80	Roller Spin 		46	0	81	Tron Flutes 	
+47	0	80	Rocker Spin 	#	47	0	81	Flute&Clari 	
+48	0	80	Tone Wh.Solo	#	48	0	81	Orch Reeds  	
+49	0	80	Purple Spin 		49	0	81	Delay Shaku 	#
+50	0	80	RingingOrgan	 	50	0	81	DelayOcarina	#
+51	0	80	60's LeadOrg		51	0	81	DynOrchestra	
+52	0	80	DistLead Org	 	52	0	81	Celtic Ens  	
+53	0	80	Assalt Organ		53	0	81	Early Ens   	
+54	0	80	Perky Spin  	#	54	0	81	WoodSymphony	
+55	0	80	Gospel Spin 	#	55	0	81	ViennaWoods2	
+56	0	80	Boogie Organ		56	0	81	Stage Woods 	
+57	0	80	Klubb Organ 		57	0	81	TremoloFlute	
+58	0	80	96 Year     	#	58	0	81	SupportWoods	
+59	0	80	OrganInStone	 	59	0	81	Fiddle&Oboe 	
+60	0	80	StringsOrgan	 	60	0	81	Mono Blues  	
+61	0	80	Cathdr Pipes		61	0	81	TravlnFlutes	
+62	0	80	Enh.Theater 	#	62	0	81	DistordedSAW	
+63	0	80	Ld.Harmonica	#	63	0	81	The Leader  	
+64	0	80	Guitar&Str  		64	0	81	SH-2 Lead   	
+65	0	80	Elec Gut Gt 	 	65	0	81	JP-6 Lead   	
+66	0	80	Chorus GutGt	 	66	0	81	Glassy Saws 	
+67	0	80	Enh.Nylon Gt	#	67	0	81	Too Pure    	
+68	0	80	CompSteel Gt	 	68	0	81	Mono Analog 	
+69	0	80	Elec Aco.Gt 	 	69	0	81	Charang Lead	#
+70	0	80	Hard Steel  	 	70	0	81	Phase Wire  	#
+71	0	80	Comp OVSteel	#	71	0	81	Flanging 5th	#
+72	0	80	DelayedSteel	#	72	0	81	BOG         	
+73	0	80	Wah Steel Gt	 	73	0	81	Solo Twang  	
+74	0	80	Soft Steel  	 	74	0	81	Koto Power  	
+75	0	80	Lead Jazz Gt	#	75	0	81	Dulcid Solo 	
+76	0	80	Hawaian Gt  	#	76	0	81	Wine Guitar 	
+77	0	80	Solo Jazz Gt	#	77	0	81	Leapin' Keys	
+78	0	80	Old Clean Gt	#	78	0	81	New Fantasia	#
+79	0	80	Jazz Chorus 	#	79	0	81	MilleniumStr	
+80	0	80	Fat Clean   	 	80	0	81	OB Borealis 	
+81	0	80	Space-D Gt  	 	81	0	81	Wet Glass   	
+82	0	80	Whammy Gt   	 	82	0	81	VintagePhase	
+83	0	80	Trem&Cho Gt 	 	83	0	81	P-layer     	
+84	0	80	Long DLY.Gt 	 	84	0	81	Ring Glass  	#
+85	0	80	Comp FeedBK 	 	85	0	81	5th Atm /Aft	
+86	0	80	ChaseDL Mute	 	86	0	81	Combing     	
+87	0	80	Wah Funk Pop	#	87	0	81	Modular Life	
+88	0	80	Old Blues   	 	88	0	81	KeySyncSynth	#
+89	0	80	335 Drive   	#	89	0	81	Phase Track 	#
+90	0	80	335 Drive2  	 	90	0	81	3D Crystal  	#
+91	0	80	SmallAMP OD 	 	91	0	81	Bright Star 	#
+92	0	80	CountrySlide	 	92	0	81	Technoheadz 	
+93	0	80	335 Comp    	 	93	0	81	Techno Cave 	
+94	0	80	TC Lead Gt  	#	94	0	81	Wedo-Wodo   	
+95	0	80	Lead Mild Gt	 	95	0	81	Dance Sweet 	
+96	0	80	Crunch Gt   	 	96	0	81	Dancefloor  
+97	0	80	Auto Wah Gt 	 	97	0	81	Frogcillator
+98	0	80	Folmant Gt  	 	98	0	81	Dance Zipper
+99	0	80	Fuzz Gt     	 	99	0	81	Lo-fi Chord 
+100	0	80	MonoPhase Gt	 	100	0	81	Sliced      
+101	0	80	2 Layer Gt  	 	101	0	81	Dance Chop  
+102	0	80	MonoDLY Dist	 	102	0	81	GO WILD!    
+103	0	80	Step FLG Gt 	 	103	0	81	Tropics     
+104	0	80	335 Fuzz    	 	104	0	81	FM Fx Bells 
+105	0	80	Drive Funk  	 	105	0	81	CrystalGlass
+106	0	80	Loud & Metal	 	106	0	81	Borealis    
+107	0	80	Heavy DistGt	#	107	0	81	Circular Pad
+108	0	80	Power Mute  	 	108	0	81	Oxigenizer  
+109	0	80	Muted OD    	#	109	0	81	Quasar      
+110	0	80	Combo Drive 	 	110	0	81	PsycheSweep 
+111	0	80	Ring Gt.    	 	111	0	81	Hell Section
+112	0	80	Scream Drive	 	112	0	81	DigitalDrone	
+113	0	80	Gt.Pinch Wah	 	113	0	81	Harp Drop   	
+114	0	80	Power DistGt	 	114	0	81	Runaway Rez 	
+115	0	80	Triple Gt   	 	115	0	81	Wacky Pizzer	
+116	0	80	Reverse Harm	 	116	0	81	Reverse Rain	#
+117	0	80	Drivin'Uprit	 	117	0	81	Starburst   	
+118	0	80	Enh.Aco Bass	#	118	0	81	Tongan Delay	
+119	0	80	Pre Bass    	#	119	0	81	Cascade     	
+120	0	80	Comp Finger 	#	120	0	81	Legat~Stacat	
+121	0	80	Octrv Finger	 	121	0	81	Rev Goblin  	#
+122	0	80	Rock Bass   	#	122	0	81	FantasySitar	#
+123	0	80	Dist Bass   	 	123	0	81	Rising Sun  	
+124	0	80	Solo Fretles	 	124	0	81	Green Tea   	
+125	0	80	WahSlapBass 	 	125	0	81	Jimmy's Koto	
+126	0	80	Froggy Bass 		126	0	81	Fly 2 India 	
+127	0	80	3D TB-303   		127	0	81	IndianSpirit	
+128	0	80	Acid Dist Bs	#	128	0	81	Gt/BsNz MENU
