@@ -1,5 +1,6 @@
 from dataclasses import dataclass, field
 from typing import IO, List, NamedTuple
+from json import dump as json_dump
 
 
 class ParseError(ValueError):
@@ -34,9 +35,7 @@ def to_json(o, fp: IO[str], level: int = 0) -> None:
 
         fp.write("\n" + SPACE * INDENT * level + "}")
     elif isinstance(o, str):
-        fp.write('"')
-        fp.write(o)
-        fp.write('"')
+        json_dump(o, fp)
     elif isinstance(o, list) or isinstance(o, tuple):
         fp.write("[\n" if level < 2 else "[")
         comma = ""
