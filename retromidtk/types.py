@@ -1,6 +1,8 @@
 from dataclasses import dataclass, field
-from typing import IO, List, NamedTuple
-from json import dump as json_dump
+from typing import IO, Any, List, NamedTuple
+import json
+
+json_dump = json.dump
 
 
 class ParseError(ValueError):
@@ -23,6 +25,7 @@ def to_json(o, fp: IO[str], level: int = 0) -> None:
     formatted with one item per line. If the list is deeper, then it will be formatted with all items on one
     line. This balances readability with compactness.
     """
+
     if isinstance(o, dict):
         fp.write("{\n")
         comma = ""
@@ -91,6 +94,13 @@ class DrumSet:
     sounds: List[DrumSound] = field(default_factory=list)
 
 
+@dataclass
+class Instrument:
+    patches: List[Patch] = field(default_factory=list)
+    groups: List[Group] = field(default_factory=list)
+    drum_sets: List[DrumSet] = field(default_factory=list)
+
+
 def encode_drum_set(drum_set: DrumSet) -> dict:
     """Encode a drum set as a dictionary."""
     return {
@@ -110,3 +120,23 @@ def encode_group(group: Group) -> dict:
     if group.patches:
         ret["patches"] = [p for p in group.patches]
     return ret
+
+
+def from_json(d: dict[str, Any]) -> Instrument:
+    patches = d.get("patches", [])
+    for i in range(len(patches)):
+        patches[i] = Patch(*patches[i])
+
+    groups = d.get("groups", [])
+    for i in range(len(groups)):
+        groups[i] = Group(**groups[i])
+
+    drum_sets = d.get("drum_sets", [])
+    for i in range(len(drum_sets)):
+        ds = drum_sets[i]
+        sounds = ds["sounds"]
+        for j in range(len(sounds)):
+            sounds[j] = DrumSound(*sounds[j])
+        drum_sets[i] = DrumSet(ds["patch"], sounds)
+
+    return Instrument(patches, groups, drum_sets)
