@@ -58,7 +58,7 @@
       <Patch name="Tremo Wurly Solo" hbank="98" lbank="3" prog="4" />
       <Patch name="Stage 73 Enh" hbank="99" lbank="0" prog="4" />
       <Patch name="NY Rhodes Enh" hbank="99" lbank="1" prog="4" />
-      <Patch name="Rhase Dyno Enh" hbank="99" lbank="2" prog="4" />
+      <Patch name="Phase Dyno Enh" hbank="99" lbank="2" prog="4" />
       <Patch name="Whirly Enh" hbank="99" lbank="3" prog="4" />
       <Patch name="E.Piano 2 Cls" hbank="96" lbank="0" prog="5" />
       <Patch name="Detuned EP2 Cls" hbank="96" lbank="1" prog="5" />
@@ -926,7 +926,7 @@
       <Patch name="Enh.E Grand" hbank="80" lbank="0" prog="21" />
       <Patch name="Brite Honky" hbank="80" lbank="0" prog="22" />
       <Patch name="Ambient EP" hbank="80" lbank="0" prog="23" />
-      <Patch name="Rhase Dyno" hbank="80" lbank="0" prog="24" />
+      <Patch name="Phase Dyno" hbank="80" lbank="0" prog="24" />
       <Patch name="Wah Dyno" hbank="80" lbank="0" prog="25" />
       <Patch name="Voweling EP" hbank="80" lbank="0" prog="26" />
       <Patch name="Stage 73" hbank="80" lbank="0" prog="27" />

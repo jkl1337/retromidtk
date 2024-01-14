@@ -13,7 +13,7 @@ PC	LSB	MSB	Classical Map	MSB	Contemporary Map	MSB	Solo Map	MSB	Enhanced Map
 	1	96	Honky-tonk w	97	Old Honky w 	98	St.Honky w  	99	Brite Honkyw
 5	0	96	E.Piano 1   	97	Soft Rhodes 	98	Tremo Rhodes	99	Stage 73    
 	1	96	Detuned EP1 	97	Fat Rhodes  	98	Sweet Tynes 	99	NY Rhodes   
-	2	96	Dyno Rhodes 	97	Rhodes Wide 	98	Tremo Dyno  	99	Rhase Dyno  
+	2	96	Dyno Rhodes 	97	Rhodes Wide 	98	Tremo Dyno  	99	Phase Dyno
 	3	96	60's E.Piano	97	Wurly Soft  	98	Tremo Wurly 	99	Whirly      
 6	0	96	E.Piano 2   	97	FM E.Piano  	98	FM Hard EP  	99	Chorus EP   
 	1	96	Detuned EP2 	97	Soft FM EP  	98	Brite FM EP 	99	Phase FM EP 
@@ -287,7 +287,7 @@ PC	LSB	MSB	Special 1		PC	LSB	MSB	Special 2
 22	0	80	Enh.E Grand 	#	22	0	81	Choral Brass	
 23	0	80	Brite Honky 	#	23	0	81	Vocal Keys  	
 24	0	80	Ambient EP  		24	0	81	SampleThe80s	
-25	0	80	Rhase Dyno  	#	25	0	81	Spectravox  	
+25	0	80	Phase Dyno  	#	25	0	81	Spectravox
 26	0	80	Wah Dyno    		26	0	81	Formantic   	
 27	0	80	Voweling EP 	 	27	0	81	Vocoder Wave	
 28	0	80	Stage 73    	#	28	0	81	Enh.Muted Tp	#
