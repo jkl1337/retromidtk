@@ -1,5 +1,5 @@
-from xml.etree import ElementTree as ET
 from typing import NamedTuple, Optional
+from xml.etree import ElementTree as ET
 
 
 class Controller(NamedTuple):

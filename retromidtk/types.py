@@ -1,6 +1,6 @@
+import json
 from dataclasses import dataclass, field
 from typing import IO, Any, List, NamedTuple
-import json
 
 json_dump = json.dump
 

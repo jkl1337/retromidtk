@@ -7,7 +7,8 @@ import re
 from itertools import chain
 from typing import IO
 
-from retromidtk.types import DrumSet, DrumSound, Group, ParseError, Patch, to_json
+from retromidtk.types import (DrumSet, DrumSound, Group, ParseError, Patch,
+                              to_json)
 
 # Expected header before Native Instruments List
 RE_INST_HEADER_1 = re.compile(r"^SD-80/SD-90 Native Instruments List$")

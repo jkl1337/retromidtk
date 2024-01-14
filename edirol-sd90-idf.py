@@ -4,14 +4,12 @@
 import argparse
 import json
 import os
-from typing import IO
-
-from retromidtk.types import Group, Patch, from_json, Instrument
-from retromidtk.idf import add_controller, Controller
-
 import xml.etree.ElementTree as ET
+from operator import itemgetter
 from typing import NamedTuple
 
+from retromidtk.idf import Controller, add_controller
+from retromidtk.types import Instrument, Patch, from_json
 
 CONTROLLERS = [
     Controller("Modulation", 1),
@@ -95,33 +93,12 @@ CLASSIC_PATCH_TOP_GROUPS: list[GroupConfig] = [
 ]
 
 
-def add_patches(
-    el: ET.Element,
-    patch_ids: list[int],
-    group_config: GroupConfig,
-    patches: list[Patch],
-):
-    for patch_id in patch_ids:
-        patch = patches[patch_id]
-        if patch.drum:
-            continue
-        if group_config.pc_min <= patch.pc <= group_config.pc_max:
-            ET.SubElement(
-                el,
-                "Patch",
-                name=patch.name,
-                hbank=str(patch.msb),
-                lbank=str(patch.lsb),
-                prog=str(patch.pc),
-            )
-
-
-def add_controllers(instrument_el: ET.Element):
+def serialize_controllers(instrument_el: ET.Element):
     for c in CONTROLLERS:
         add_controller(instrument_el, c)
 
 
-def transform(instrument_el: ET.Element, instrument: Instrument):
+def serialize_instruments(instrument_el: ET.Element, instrument: Instrument):
     patches = instrument.patches
 
     sysex = ET.SubElement(instrument_el, "SysEx", name="Native On")
@@ -131,16 +108,43 @@ def transform(instrument_el: ET.Element, instrument: Instrument):
     event = ET.SubElement(init, "event", tick="0", type="2", datalen="11")
     event.text = "41 10 00 48 12 00 00 00 00 00 00"
 
-    for top_group in PATCH_TOP_GROUPS:
-        for group in instrument.groups[:4]:
-            group_name = f"{top_group.name} {group.name}"
-            patch_group = ET.SubElement(instrument_el, "PatchGroup", name=group_name)
-            add_patches(patch_group, group.patches, top_group, patches)
+    for group in PATCH_TOP_GROUPS:
+        patch_group = ET.SubElement(instrument_el, "PatchGroup", name=group.name)
+
+        group_patches: list[tuple[str, int, Patch]] = []  # (name, pc, patch)
+        for g_abbrv, gr in zip(["Cls", "Ctm", "Solo", "Enh"], instrument.groups[:4]):
+            group_patches.extend(
+                (f"{patch.name} {g_abbrv}", patch.pc, patch)
+                for patch in (patches[pid] for pid in gr.patches)
+                if group.pc_min <= patch.pc <= group.pc_max and not patch.drum
+            )
+
+        for name, pc, patch in sorted(group_patches, key=itemgetter(1)):
+            ET.SubElement(
+                patch_group,
+                "Patch",
+                name=name,
+                hbank=str(patch.msb),
+                lbank=str(patch.lsb),
+                prog=str(pc),
+            )
 
     for top_group in CLASSIC_PATCH_TOP_GROUPS:
-        group_name = f"{top_group.name} Classic"
-        patch_group = ET.SubElement(instrument_el, "PatchGroup", name=group_name)
-        add_patches(patch_group, instrument.groups[0].patches, top_group, patches)
+        patch_group = ET.SubElement(instrument_el, "PatchGroup", name=top_group.name)
+
+        for patch_id in instrument.groups[0].patches:
+            patch = patches[patch_id]
+            if patch.drum:
+                continue
+            if top_group.pc_min <= patch.pc <= top_group.pc_max:
+                ET.SubElement(
+                    patch_group,
+                    "Patch",
+                    name=patch.name,
+                    hbank=str(patch.msb),
+                    lbank=str(patch.lsb),
+                    prog=str(patch.pc),
+                )
 
     for group in instrument.groups[4:]:
         patch_group = ET.SubElement(instrument_el, "PatchGroup", name=group.name)
@@ -173,7 +177,21 @@ def transform(instrument_el: ET.Element, instrument: Instrument):
         )
 
 
-def transform_drum_sets(instrument_el: ET.Element, instrument: Instrument):
+# Maps the minimum program change number for a drum patch to the maximum
+DRUM_PC_RANGE: dict[int, int] = {
+    0: 7,
+    8: 15,
+    16: 23,
+    24: 24,
+    25: 31,
+    32: 39,
+    40: 47,
+    48: 55,
+    56: 126,
+}
+
+
+def serialize_drum_sets(instrument_el: ET.Element, instrument: Instrument):
     patches = instrument.patches
     drum_sets = instrument.drum_sets
 
@@ -183,10 +201,12 @@ def transform_drum_sets(instrument_el: ET.Element, instrument: Instrument):
         patch = patches[drum_set.patch_id]
         assert patch.drum
         map_entry = ET.SubElement(drummaps_el, "entry")
+        pc_min = patch.pc
+        pc_max = DRUM_PC_RANGE[patch.pc]
         ET.SubElement(
             map_entry,
             "patch_collection",
-            prog=f"{patch.pc}-{patch.pc+7}",
+            prog=f"{pc_min}-{pc_max}" if pc_min != pc_max else str(pc_min),
             lbank=str(patch.lsb),
             hbank=str(patch.msb),
         )
@@ -249,9 +269,9 @@ def main():
     root = ET.Element("muse", version="2.1")
     instrument_el = ET.SubElement(root, "MidiInstrument", name="Edirol SD-90")
 
-    transform(instrument_el, data)
-    add_controllers(instrument_el)
-    transform_drum_sets(instrument_el, data)
+    serialize_instruments(instrument_el, data)
+    serialize_controllers(instrument_el)
+    serialize_drum_sets(instrument_el, data)
 
     pretty_indent(root)
     tree = ET.ElementTree(root)
