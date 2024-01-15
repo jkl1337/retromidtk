@@ -32,12 +32,12 @@ Key#	Standard Set	Room Set    	Power Set   	Electric Set	Analog Set  	Jazz Set  
 39	Hand Clap   	Hand Clap   	Hand Clap   	Hand Clap   	Hand Clap   	Hand Clap   	Brush Slap  	Castanets   	High Q      
 40	Elec.Snare  	Elec.Snare  	Elec.Snare  	E.SnareDrum2	Elec.Snare  	Elec.Snare  	Brush Swirl 	Concert SD  	Slap        
 41	Low Tom 2   	Room LowTom2	PowerLowTom2	E.Low Tom 2 	Ana.Low Tom2	Low Tom 2   	BrushLowTom2	Timpani F   	Scratch Push
-42	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	Closed Hi-ha	ClosedHi-hat	Closed Hi-ha	Timpani F#  	Scratch Pull
+42	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	Ana.ClosedHH	ClosedHi-hat	Brush CHH	Timpani F#  	Scratch Pull
 43	Low Tom 1   	Room LowTom1	PowerLowTom1	E.Low Tom 1 	Ana.Low Tom1	Low Tom 1   	BrushLowTom1	Timpani G   	Sticks      
-44	Pedal Hi-hat	Pedal Hi-hat	Pedal Hi-hat	Pedal Hi-hat	ClosedHi-hat	Pedal Hi-hat	ClosedHi-hat	Timpani G#  	Square Click
-45	Mid Tom 2   	Room MidTom2	PowerMIdTom2	E.Mid Tom 2 	Ana.Mid Tom2	Mid Tom 2   	BrushMidTom2	Timpani A   	Metron Click
-46	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Closed Hi-ha	Open Hi-hat 	Closed Hi-ha	Timpani A#  	Metron Bell 
-47	Mid Tom 1   	Room MidTom1	PowerMIdTom1	E.Mid Tom 1 	Ana.Mid Tom1	Mid Tom 1   	BrushMidTom1	Timpani B   	GtFret Noise
+44	Pedal Hi-hat	Pedal Hi-hat	Pedal Hi-hat	Pedal Hi-hat	Ana.ClosedHH	Pedal Hi-hat	Brush PHH	Timpani G#  	Square Click
+45	Mid Tom 2   	Room MidTom2	PowerMidTom2	E.Mid Tom 2 	Ana.Mid Tom2	Mid Tom 2   	BrushMidTom2	Timpani A   	Metron Click
+46	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Ana.Open HH	Open Hi-hat 	Brush OHH	Timpani A#  	Metron Bell
+47	Mid Tom 1   	Room MidTom1	PowerMidTom1	E.Mid Tom 1 	Ana.Mid Tom1	Mid Tom 1   	BrushMidTom1	Timpani B   	GtFret Noise
 48	High Tom 2  	Room Hi Tom2	Power HiTom2	E.Hi Tom 2  	Ana.Hi Tom2 	High Tom 2  	Brush HiTom2	Timpani c   	Cut Noise Up
 49	CrashCymbal1	CrashCymbal1	CrashCymbal1	CrashCymbal1	Ana.Cymbal  	CrashCymbal1	Brush Crash1	Timpani c#  	Cut Noise Dw
 50	High Tom 1  	Room Hi Tom1	Power HiTom1	E.Hi Tom 1  	Ana.Hi Tom1 	High Tom 1  	Brush HiTom1	Timpani d   	Slap_St.Bass
@@ -77,7 +77,9 @@ Key#	Standard Set	Room Set    	Power Set   	Electric Set	Analog Set  	Jazz Set  
 84	Bell Tree   	Bell Tree   	Bell Tree   	Bell Tree   	Bell Tree   	Bell Tree   	Bell Tree   	Bell Tree   	Bubble      
 85	Castanets   	Castanets   	Castanets   	Castanets   	Castanets   	Castanets   	Castanets   	Castanets   	
 86	Mute Surdo  	Mute Surdo  	Mute Surdo  	Mute Surdo  	Mute Surdo  	Mute Surdo  	Mute Surdo  	Mute Surdo  	
-87	Open Surdo  	Open Surdo  	Open Surdo  	Open Surdo  	Open Surdo  	Open Surdo  	Open Surdo  	Open Surdo  	
+87	Open Surdo  	Open Surdo  	Open Surdo  	Open Surdo  	Open Surdo  	Open Surdo  	Open Surdo  	Open Surdo
+88								Applause
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Contemporary Map(BANK MSB/LSB=105/0)								
 PC#->	1	9	17	25	26	33	41	49	57
@@ -93,16 +95,16 @@ Key#	MonoStandard	Mono.Room   	Mono.Power  	Dance Set   	Rave Set    	Mono.Jazz 
 35	Kick Drum 2 	Kick Drum 2 	Power Kick 2	Dance Kick  	808 Kick    	Jazz Kick 2 	Jazz Kick 2 
 36	Kick Drum 1 	Kick Drum 1 	Power Kick 1	Techno Kick 	Round Kick  	Jazz Kick 1 	Jazz Kick 1 
 37	Side Stick  	Side Stick  	Side Stick  	Side Stick  	Ana.Rim Shot	Side Stick  	Side Stick  
-38	Aco. Snare  	Room Snare  	PowerSnareDr	Dance Snare 	808 Snare   	Jazz Snare  	Brush Tap   
+38	Aco.Snare  	Room Snare  	PowerSnareDr	Dance Snare 	808 Snare   	Jazz Snare  	Brush Tap
 39	Hand Clap   	Hand Clap   	Hand Clap   	Hand Clap   	Hand Clap   	Hand Clap   	Brush Slap  
-40	Elec. Snare 	Elec.Snare  	Elec.Snare  	Raga Snare  	Elec.Snare  	Elec.Snare  	Brush Swirl 
+40	Elec.Snare 	Elec.Snare  	Elec.Snare  	Raga Snare  	Elec.Snare  	Elec.Snare  	Brush Swirl
 41	Low Tom 2   	Room LowTom2	PowerLowTom2	Ana.Low Tom2	808LowTom 2 	Low Tom 2   	BrushLowTom2
-42	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	Closed Hi-ha	Closed Hi-ha	ClosedHi-hat	Closed Hi-ha
+42	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	Ana.ClosedHH	ClosedHi-hat	Brush CHH
 43	Low Tom 1   	Room LowTom1	PowerLowTom1	Ana.Low Tom1	808LowTom 1 	Low Tom 1   	BrushLowTom1
-44	Pedal Hi-hat	Pedal Hi-hat	Pedal Hi-hat	ClosedHi-hat	Closed Hi-ha	Pedal Hi-hat	Closed Hi-ha
-45	Mid Tom 2   	Room MidTom2	PowerMIdTom2	Ana.Mid Tom2	808MidTom 2 	Mid Tom 2   	BrushMidTom2
-46	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	ClosedHi-hat	Open Hi-hat 	ClosedHi-hat
-47	Mid Tom 1   	Room MidTom1	PowerMIdTom1	Ana.Mid Tom1	808MidTom 1 	Mid Tom 1   	BrushMidTom1
+44	Pedal Hi-hat	Pedal Hi-hat	Pedal Hi-hat	Pedal Hi-hat	Ana.ClosedHH	Pedal Hi-hat	Brush PHH
+45	Mid Tom 2   	Room MidTom2	PowerMidTom2	Ana.Mid Tom2	808MidTom 2 	Mid Tom 2   	BrushMidTom2
+46	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Ana.Open HH	Open Hi-hat 	Brush OHH
+47	Mid Tom 1   	Room MidTom1	PowerMidTom1	Ana.Mid Tom1	808MidTom 1 	Mid Tom 1   	BrushMidTom1
 48	High Tom 2  	Room Hi Tom2	Power HiTom2	Ana.Hi Tom2 	808Hi Tom 2 	High Tom 2  	Brush HiTom2
 49	CrashCymbal1	CrashCymbal1	CrashCymbal1	CrashCymbal1	Ana.Cymbal  	CrashCymbal1	Brush Crash1
 50	High Tom 1  	Room Hi Tom1	Power HiTom1	Ana.Hi Tom1 	808Hi Tom 1 	High Tom 1  	Brush HiTom1
@@ -158,16 +160,16 @@ Key#	St.Standard 	St.Room     	St.Power    	Rust Set    	Analog2 Set 	St.Jazz   
 35	Kick Drum 2 	Rock Kick Dr	Rock Kick Dr	70s Kick 1  	909 Kick 2  	Jazz Kick 2 	Jazz Kick 2 
 36	Kick Drum 1 	Kick Drum 1 	Round Kick  	Dance Kick  	909 Kick 1  	Jazz Kick 1 	Jazz Kick 1 
 37	Side Stick  	Side Stick  	Side Stick  	Side Stick  	Ana.Rim Shot	Side Stick  	Side Stick  
-38	Snare Drum 1	Rock SnareDr	Rock SnareDr	Old Fill SN 	909 Snare 1 	Snare Drum 1	Brush Tap   
+38	Snare Drum 1	Rock SnareDr	Rock SnareDr	Old Fill SN 	909 Snare 1 	Jazz Snare 1	Brush Tap
 39	Hand Clap   	Hand Clap   	Hand Clap   	Hand Clap   	Hand Clap   	Hand Clap   	Brush Slap  
-40	Snare Drum 2	Snare Drum 2	Piccolo SN  	Rock SN     	909 Snare 2 	Snare Drum 2	Brush Swirl 
+40	Snare Drum 2	Snare Drum 2	Piccolo SN  	Rock SN     	909 Snare 2 	Jazz Snare 2	Brush Swirl
 41	Low Tom 2   	Room LowTom2	PowerLowTom2	Elec.Tom L2 	Ana.Low Tom2	Low Tom 2   	BrushLowTom2
-42	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	Closed Hi-ha	Closed Hi-ha	ClosedHi-hat	Closed Hi-ha
+42	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	Brush CHH
 43	Low Tom 1   	Room LowTom1	PowerLowTom1	Elec.Tom L1 	Ana.Low Tom1	Low Tom 1   	BrushLowTom1
-44	Pedal Hi-hat	Pedal Hi-hat	Pedal Hi-hat	ClosedHi-hat	ClosedHi-hat	Pedal Hi-hat	ClosedHi-hat
-45	Mid Tom 2   	Room MidTom2	PowerMIdTom2	Elec.Tom M2 	Ana.Mid Tom2	Mid Tom 2   	BrushMidTom2
-46	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Closed Hi-ha
-47	Mid Tom 1   	Room MidTom1	PowerMIdTom1	Elec.Tom M1 	Ana.Mid Tom1	Mid Tom 1   	BrushMidTom1
+44	Pedal Hi-hat	Pedal Hi-hat	Pedal Hi-hat	Pedal Hi-hat	Pedal Hi-hat	Pedal Hi-hat	Brush PHH
+45	Mid Tom 2   	Room MidTom2	PowerMidTom2	Elec.Tom M2 	Ana.Mid Tom2	Mid Tom 2   	BrushMidTom2
+46	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Brush OHH
+47	Mid Tom 1   	Room MidTom1	PowerMidTom1	Elec.Tom M1 	Ana.Mid Tom1	Mid Tom 1   	BrushMidTom1
 48	High Tom 2  	Room Hi Tom2	Power HiTom2	Elec.Tom H2 	Ana.Hi Tom2 	High Tom 2  	Brush HiTom2
 49	CrashCymbal1	CrashCymbal1	CrashCymbal1	CrashCymbal1	CrashCymbal1	CrashCymbal1	Brush Crash1
 50	High Tom 1  	Room Hi Tom1	Power HiTom1	Elec.Tom H1 	Ana.Hi Tom1 	High Tom 1  	Brush HiTom1
@@ -179,7 +181,7 @@ Key#	St.Standard 	St.Room     	St.Power    	Rust Set    	Analog2 Set 	St.Jazz   
 56	Cowbell     	Cowbell     	Cowbell     	Cowbell     	Ana.Cowbell 	Cowbell     	Cowbell     
 57	CrashCymbal2	CrashCymbal2	CrashCymbal2	CrashCymbal2	CrashCymbal2	CrashCymbal2	Brush Crash2
 58	Vibra-slap  	Vibra-slap  	Vibra-slap  	Vibra-slap  	Vibra-slap  	Vibra-slap  	Vibra-slap  
-59	Ride Cymbal2	Ride Cymbal2	Ride Cymbal2	Ride Cymbal2	Ride Cymbal2	Ride Cymbal2	Ride Cymbal2
+59	Ride Cymbal2	Ride Cymbal2	Ride Cymbal2	Ride Cymbal2	Ride Cymbal2	Ride Cymbal2	Brush Ride 2
 60	High Bongo  	High Bongo  	High Bongo  	High Bongo  	High Bongo  	High Bongo  	High Bongo  
 61	Low Bongo   	Low Bongo   	Low Bongo   	Low Bongo   	Low Bongo   	Low Bongo   	Low Bongo   
 62	MuteHi Conga	MuteHi Conga	MuteHi Conga	MuteHi Conga	Ana.Hi Conga	MuteHi Conga	MuteHi Conga
@@ -223,15 +225,15 @@ Key#	Amb.Standard	Amb.Room    	Gated Power 	Techno Set  	Bully Set   	Amb.Jazz  
 35	Kick Drum 2 	Rock Kick Dr	Rock Kick Dr	909 Kick 1  	909 Kick 3  	Jazz Kick 2 	Jazz Kick 2 
 36	Kick Drum 1 	Kick Drum 1 	Kick Drum 1 	909 Kick 2  	909 Kick 4  	Jazz Kick 1 	Jazz Kick 1 
 37	Side Stick  	Side Stick  	Side Stick  	Side Stick  	Ana.Rim Shot	Side Stick  	Side Stick  
-38	Snare Drum 1	Rock SnareDr	Rock SnareDr	Techno Snare	909 Snare   	Snare Drum 1	Brush Tap   
+38	Snare Drum 1	Rock SnareDr	Rock SnareDr	Techno Snare	909 Snare   	Jazz Snare 1	Brush Tap
 39	Hand Clap   	Hand Clap   	Hand Clap   	Hand Clap   	Hand Clap   	Hand Clap   	Brush Slap  
-40	Snare Drum 2	Snare Drum 2	Snare Drum 2	Punch Snare 	808 Snare   	Snare Drum 2	Brush Swirl 
+40	Snare Drum 2	Snare Drum 2	Snare Drum 2	Punch Snare 	808 Snare   	Jazz Snare 2	Brush Swirl
 41	Low Tom 2   	Room LowTom2	Room LowTom2	Elec.Tom L2 	Ana.Low Tom2	Low Tom 2   	BrushLowTom2
-42	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat
+42	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	ClosedHi-hat	Brush CHH
 43	Low Tom 1   	Room LowTom1	Room LowTom1	Elec.Tom L1 	Ana.Low Tom1	Low Tom 1   	BrushLowTom1
-44	Pedal Hi-hat	Pedal Hi-hat	Pedal Hi-hat	Closed Hi-ha	Closed Hi-ha	Pedal Hi-hat	Closed Hi-ha
+44	Pedal Hi-hat	Pedal Hi-hat	Pedal Hi-hat	Pedal Hi-hat	Pedal Hi-hat	Pedal Hi-hat	Brush PHH
 45	Mid Tom 2   	Room MidTom2	Room MidTom2	Elec.Tom M2 	Ana.Mid Tom2	Mid Tom 2   	BrushMidTom2
-46	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Closed Hi-ha
+46	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Open Hi-hat 	Brush OHH
 47	Mid Tom 1   	Room MidTom1	Room MidTom1	Elec.Tom M1 	Ana.Mid Tom1	Mid Tom 1   	BrushMidTom1
 48	High Tom 2  	Room Hi Tom2	Room Hi Tom2	Elec.Tom H2 	Ana.Hi Tom2 	High Tom 2  	Brush HiTom2
 49	CrashCymbal1	CrashCymbal1	CrashCymbal1	CrashCymbal1	CrashCymbal1	CrashCymbal1	Brush Crash1
@@ -244,7 +246,7 @@ Key#	Amb.Standard	Amb.Room    	Gated Power 	Techno Set  	Bully Set   	Amb.Jazz  
 56	Cowbell     	Cowbell     	Cowbell     	Cowbell     	Ana.Cowbell 	Cowbell     	Cowbell     
 57	CrashCymbal2	CrashCymbal2	CrashCymbal2	CrashCymbal2	CrashCymbal2	CrashCymbal2	Brush Crash2
 58	Vibra-slap  	Vibra-slap  	Vibra-slap  	Vibra-slap  	Vibra-slap  	Vibra-slap  	Vibra-slap  
-59	Ride Cymbal2	Ride Cymbal2	Ride Cymbal2	Ride Cymbal2	Ride Cymbal2	Ride Cymbal2	Ride Cymbal2
+59	Ride Cymbal2	Ride Cymbal2	Ride Cymbal2	Ride Cymbal2	Ride Cymbal2	Ride Cymbal2	Brush Ride 2
 60	High Bongo  	High Bongo  	High Bongo  	High Bongo  	High Bongo  	High Bongo  	High Bongo  
 61	Low Bongo   	Low Bongo   	Low Bongo   	Low Bongo   	Low Bongo   	Low Bongo   	Low Bongo   
 62	MuteHi Conga	MuteHi Conga	MuteHi Conga	MuteHi Conga	Ana.Hi Conga	MuteHi Conga	MuteHi Conga
