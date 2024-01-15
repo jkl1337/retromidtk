@@ -261,7 +261,7 @@ def main():
     args = argparser.parse_args()
 
     data_dir = os.path.join(os.path.dirname(os.path.realpath(__file__)), "data")
-    data_path = os.path.join(data_dir, "edirol-sd90.json")
+    data_path = os.path.join(data_dir, "edirol-sd-90.json")
 
     with open(data_path) as data_file:
         data = from_json(json.load(data_file))

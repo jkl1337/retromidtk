@@ -7,8 +7,7 @@ import re
 from itertools import chain
 from typing import IO
 
-from retromidtk.types import (DrumSet, DrumSound, Group, ParseError, Patch,
-                              to_json)
+from retromidtk.types import DrumSet, DrumSound, Group, ParseError, Patch, to_json
 
 # Expected header before Native Instruments List
 RE_INST_HEADER_1 = re.compile(r"^SD-80/SD-90 Native Instruments List$")
@@ -278,7 +277,7 @@ def main():
     args = argparser.parse_args()
 
     data_dir = os.path.join(os.path.dirname(os.path.realpath(__file__)), "data")
-    sd90_dir = os.path.join(data_dir, "edirol-sd90")
+    sd90_dir = os.path.join(data_dir, "edirol-sd-90")
     inst_path = os.path.join(sd90_dir, "SD_inst.txt")
     drum_path = os.path.join(sd90_dir, "SD_drum.txt")
 
