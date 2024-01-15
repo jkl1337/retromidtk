@@ -161,8 +161,8 @@ PC	LSB	MSB	Classical Map	MSB	Contemporary Map	MSB	Solo Map	MSB	Enhanced Map
 	1	96	Square      	97	Fat Square  	98	Fat Square2 	99	Phase Square
 	2	96	Sine Wave   	97	2600 Sine   	98	2600 Sine 2 	99	Sine Lead   
 82	0	96	Saw Wave    	97	JP Saw Wave 	98	Oct.JP Saw  	99	KeySync Saw 
-	1	96	Saw         	97	MG Saw      	98	Hybrit Saw  	99	Flanging Saw
-	2	96	Doctor Solo 	97	Fat Saw Solo	98	Hybrit Solo 	99	Doctor Lead 
+	1	96	Saw         	97	MG Saw      	98	Hybrid Saw  	99	Flanging Saw
+	2	96	Doctor Solo 	97	Fat Saw Solo	98	Hybrid Solo 	99	Doctor Lead
 	3	96	Natural Lead	97	P5 Saw Lead 	98	MG Saw Lead 	99	Fat Saw Lead
 	4	96	SequencedSaw	97	MG Sequence 	98	DelaySeqence	99	PhaseSeqence
 83	0	96	Syn.Calliope	97	SynCalliope2	98	SynCalliope3	99	LeadCalliope

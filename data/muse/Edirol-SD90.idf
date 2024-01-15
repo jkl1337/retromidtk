@@ -671,8 +671,8 @@
       <Patch name="P5 Saw Lead Ctm" hbank="97" lbank="3" prog="81" />
       <Patch name="MG Sequence Ctm" hbank="97" lbank="4" prog="81" />
       <Patch name="Oct.JP Saw Solo" hbank="98" lbank="0" prog="81" />
-      <Patch name="Hybrit Saw Solo" hbank="98" lbank="1" prog="81" />
-      <Patch name="Hybrit Solo Solo" hbank="98" lbank="2" prog="81" />
+      <Patch name="Hybrid Saw Solo" hbank="98" lbank="1" prog="81" />
+      <Patch name="Hybrid Solo Solo" hbank="98" lbank="2" prog="81" />
       <Patch name="MG Saw Lead Solo" hbank="98" lbank="3" prog="81" />
       <Patch name="DelaySeqence Solo" hbank="98" lbank="4" prog="81" />
       <Patch name="KeySync Saw Enh" hbank="99" lbank="0" prog="81" />
