@@ -26,6 +26,8 @@ def to_json(o, fp: IO[str], level: int = 0) -> None:
     line. This balances readability with compactness.
     """
 
+    COMPACT_LEVEL = 2
+
     if isinstance(o, dict):
         fp.write("{\n")
         comma = ""
@@ -40,12 +42,12 @@ def to_json(o, fp: IO[str], level: int = 0) -> None:
     elif isinstance(o, str):
         json_dump(o, fp)
     elif isinstance(o, list) or isinstance(o, tuple):
-        fp.write("[\n" if level < 2 else "[")
+        fp.write("[\n" if level < COMPACT_LEVEL else "[")
         comma = ""
         # skip the last element of Patch tuple if it is default (False)
         for i in range(len(o) - 1 if isinstance(o, Patch) and not o[-1] else len(o)):
             fp.write(comma)
-            if level < 2:
+            if level < COMPACT_LEVEL:
                 comma = ",\n"
                 fp.write(SPACE * INDENT * (level + 1))
             else:

@@ -2,12 +2,14 @@
 # -*- coding: utf-8 -*-
 #
 import argparse
+import configparser
 import os
 import re
 from itertools import chain
 from typing import IO
 
-from retromidtk.types import DrumSet, DrumSound, Group, ParseError, Patch, to_json
+from retromidtk.types import (DrumSet, DrumSound, Group, ParseError, Patch,
+                              to_json)
 
 # Expected header before Native Instruments List
 RE_INST_HEADER_1 = re.compile(r"^SD-80/SD-90 Native Instruments List$")
@@ -77,20 +79,7 @@ $""",
 
 RE_DRUM_HEADER_2 = re.compile(r"^SD-80/SD-90 Drum Tones List$")
 
-RE_DRUM_KEY_DATA = re.compile(
-    r"""
-  (?P<key>\d+)
-  \t (?P<set0> .+?) \s*
-  \t (?P<set1> .+?) \s*
-  \t (?P<set2> .+?) \s*
-  \t (?P<set3> .+?) \s*
-  \t (?P<set4> .+?) \s*
-  \t (?P<set5> .+?) \s*
-  \t (?P<set6> .+?) \s*
-  (?:\t (?P<set7> .+?) \s*)?
-  (?:\t (?P<set8> .+?) \s*)?$""",
-    re.X,
-)
+RE_DRUM_KEY_PREFIX = re.compile(r"^(?P<key>\d+)\t")
 
 
 class Converter:
@@ -173,14 +162,14 @@ class Converter:
                 msb = int(match.group("msb"))
                 group_idx = msb - 104
 
-            match = RE_DRUM_KEY_DATA.match(line)
+            match = RE_DRUM_KEY_PREFIX.match(line)
             if match:
                 key = int(match.group("key"))
 
-                for i in range(9):
-                    name = match.group(i + 2)
+                for i, field in enumerate(line.split("\t")[1:]):
+                    name = field.strip()
                     if not name:
-                        break
+                        continue
                     drum_sets[group_idx][i].sounds.append(DrumSound(key, name))
 
         self.drum_sets = list(chain.from_iterable(drum_sets))
@@ -271,21 +260,132 @@ class Converter:
         )
 
 
+class CakeWalkConverter:
+    RE_PATCH = re.compile(r"^Patch\[(?P<id>\d+)\]$")
+
+    def __init__(self):
+        self.groups: list[Group] = []
+        self.patches: list[Patch] = []
+        self.drum_sets: list[DrumSet] = []
+
+    def convert(self, input_file: IO[str]):
+        cfg = configparser.ConfigParser(
+            allow_no_value=False, strict=True, interpolation=None
+        )
+        cfg.SECTCRE = re.compile(
+            r"""
+        ^(?:  (\[) | \.)
+            (?P<header>.+)
+         (?(1) \]) $
+        """,
+            re.VERBOSE,
+        )
+        cfg.optionxform = str  # type: ignore
+        cfg.read_file(input_file)
+
+        patches = self.patches
+
+        SECT = "Edirol SD-90"
+        for opt in cfg.options(SECT):
+            m = self.RE_PATCH.match(opt)
+            if m:
+                bank = cfg.get(SECT, opt)
+                if bank.startswith("GM2"):
+                    continue
+
+                id = int(m.group("id"))
+                msb = (id >> 7) & 0x7F
+                lsb = id & 0x7F
+                drum = bank.endswith("Drums")
+
+                for pc in cfg.options(bank):
+                    name = cfg.get(bank, pc)
+                    pc = int(pc)
+                    patches.append(Patch(msb, lsb, pc, name, drum))
+
+        # Sort similar to the primary implementation
+        def _sort_key(p: Patch):
+            if p.msb > 90 and not p.drum:
+                return (p.pc, p.lsb, p.msb)
+            elif not p.drum:
+                return (128, p.pc, p.msb)
+            else:
+                return (129, p.pc, p.msb)
+
+        patches.sort(key=_sort_key)
+
+        def _read_drum_set(
+            name: str, sounds: dict[int, DrumSound]
+        ) -> dict[int, DrumSound]:
+            based_on = cfg.get(name, "BasedOn", fallback=None)
+            if based_on:
+                _read_drum_set(based_on, sounds)
+
+            for key in cfg.options(name):
+                if key == "BasedOn":
+                    continue
+                key_int = int(key)
+                sounds[key_int] = DrumSound(key_int, cfg.get(name, key))
+
+            return sounds
+
+        for patch_id, patch in enumerate(patches):
+            if not patch.drum:
+                continue
+            set_name = cfg.get(
+                "Edirol SD-90 Drumsets",
+                f"Key[{patch.msb << 7 | patch.lsb},{patch.pc}]",
+            )
+            if not set_name:
+                raise ValueError(f"Drum set not found for {patch.name} ({patch.pc})")
+
+            self.drum_sets.append(
+                DrumSet(patch_id, sorted(_read_drum_set(set_name, {}).values()))
+            )
+
+        def _drum_sort_key(ds: DrumSet):
+            p = patches[ds.patch_id]
+            return (p.msb, p.pc)
+
+        self.drum_sets.sort(key=_drum_sort_key)
+
+    def to_json(self, output_file: IO[str]):
+        to_json(
+            {
+                "patches": self.patches,
+                "groups": self.groups,
+                "drum_sets": self.drum_sets,
+            },
+            output_file,
+        )
+
+
 def main():
     argparser = argparse.ArgumentParser(description="Convert SD90 patch file to JSON")
+    argparser.add_argument(
+        "--cakewalk", action="store_true", help="Use Cakewalk definition file"
+    )
     argparser.add_argument("output_file", type=argparse.FileType("w"))
     args = argparser.parse_args()
 
     data_dir = os.path.join(os.path.dirname(os.path.realpath(__file__)), "data")
     sd90_dir = os.path.join(data_dir, "edirol-sd-90")
-    inst_path = os.path.join(sd90_dir, "SD_inst.txt")
-    drum_path = os.path.join(sd90_dir, "SD_drum.txt")
 
-    c = Converter()
-    with open(inst_path) as f:
-        c.convert_inst(f)
-    with open(drum_path) as f:
-        c.convert_drums(f)
+    if args.cakewalk:
+        path = os.path.join(sd90_dir, "SD-90.ins")
+        c = CakeWalkConverter()
+
+        with open(path) as f:
+            c.convert(f)
+
+    else:
+        inst_path = os.path.join(sd90_dir, "SD_inst.txt")
+        drum_path = os.path.join(sd90_dir, "SD_drum.txt")
+        c = Converter()
+        with open(inst_path) as f:
+            c.convert_inst(f)
+        with open(drum_path) as f:
+            c.convert_drums(f)
 
     c.to_json(args.output_file)
 
