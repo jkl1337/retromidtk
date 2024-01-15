@@ -42,14 +42,15 @@ def to_json(o, fp: IO[str], level: int = 0) -> None:
     elif isinstance(o, list) or isinstance(o, tuple):
         fp.write("[\n" if level < 2 else "[")
         comma = ""
-        for v in o:
+        # skip the last element of Patch tuple if it is default (False)
+        for i in range(len(o) - 1 if isinstance(o, Patch) and not o[-1] else len(o)):
             fp.write(comma)
             if level < 2:
                 comma = ",\n"
                 fp.write(SPACE * INDENT * (level + 1))
             else:
                 comma = ","
-            to_json(v, fp, level + 1)
+            to_json(o[i], fp, level + 1)
         fp.write("]")
     elif isinstance(o, bool):
         fp.write("true" if o else "false")
