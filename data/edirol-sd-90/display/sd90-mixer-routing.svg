@@ -1,0 +1,1670 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="608"
+   viewBox="0 0 1080 608"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="mode03.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="0.8925926"
+     inkscape:cx="444.77178"
+     inkscape:cy="317.61411"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g95"
+     showgrid="false">
+    <sodipodi:guide
+       position="1050,726.93899"
+       orientation="799.14242,0"
+       id="guide12"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="571.15973,571.25889"
+       orientation="755.65515,0"
+       id="guide19"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="739.08211,-65.175084"
+       orientation="-755.65515,0"
+       id="guide20"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="826.23095,196.17362"
+       orientation="133.50613,0"
+       id="guide1"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker30"
+       refX="8"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path30" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker29"
+       refX="9"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="m 3.4825543,-2.873901 -4.4956038,2.24780197 a 0.7,0.7 0 0 0 0,1.25219806 L 3.4825543,2.873901 A 0.8652476,0.8652476 0 0 0 4.7347524,2.1 V -2.1 A 0.8652476,0.8652476 0 0 0 3.4825543,-2.873901 Z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none;stroke-width:0.7"
+         id="path29" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker28"
+       refX="-6"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="strokeWidth">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path28" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="-6"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="strokeWidth">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Labels Left"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1"
+       x="98.046844"
+       y="129.07733"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="98.046844"
+         y="129.07733">MIC/GT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1"
+       x="26.145836"
+       y="258.68799"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="26.145836"
+         y="258.68799">DIGITAL IN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1"
+       x="140.80724"
+       y="387.92532"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="140.80724"
+         y="387.92532">WAVE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1"
+       x="166.90097"
+       y="517.00262"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="166.90097"
+         y="517.00262">INST</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+       x="835.62512"
+       y="215.13194"
+       id="text1-9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         x="835.62512"
+         y="215.13194">REC OUT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+       x="840.65118"
+       y="430.7847"
+       id="text1-1"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="840.65118"
+         y="430.7847"
+         style="display:inline">MASTER</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Mode_1_10 Right"
+     style="display:none">
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker30);marker-end:url(#marker30)"
+       d="m 826.23095,196.17362 h -87.14884 l -0.008,215.65276 h 87.15684"
+       id="path22"
+       sodipodi:nodetypes="cccc" />
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36364;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path24"
+       cx="738.85175"
+       cy="304"
+       r="5.818182" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="AFX Send"
+     style="display:none">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect30"
+       width="140"
+       height="80"
+       x="508.49677"
+       y="151.24925"
+       ry="12" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+       x="529.49939"
+       y="210.20757"
+       id="text1-3"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         x="529.49939"
+         y="210.20757">AFX</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 508.49677,190.75001 -35.86931,-1e-5 v 113.37024"
+       id="path31" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 648.49674,190.75001 35.86931,-1e-5 v 113.37024"
+       id="path31-3" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36364;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path24-8-5-1"
+       cx="472.63266"
+       cy="304.34833"
+       r="5.818182" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36364;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path24-8-5-4"
+       cx="683.98877"
+       cy="304.34833"
+       r="5.818182" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Record AFX"
+     style="display:none">
+    <g
+       inkscape:groupmode="layer"
+       id="layer19"
+       inkscape:label="Inst"
+       style="display:none">
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 574.50423,498.0443 H 539.50329"
+         id="path41"
+         inkscape:label="inst_e" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer20"
+         inkscape:label="Inst AFX"
+         style="display:none">
+        <rect
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect47"
+           width="140"
+           height="80"
+           x="397.46838"
+           y="458.04431"
+           ry="12" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+           x="418.47101"
+           y="517.00262"
+           id="text47"><tspan
+             sodipodi:role="line"
+             id="tspan47"
+             x="418.47101"
+             y="517.00262">AFX</tspan></text>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer21"
+         inkscape:label="Inst No AFX"
+         style="display:inline">
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="M 539.50329,498.0443 H 395.52313"
+           id="path48"
+           inkscape:label="inst_m" />
+      </g>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker29)"
+         d="M 395.52313,498.0443 H 301.45728"
+         id="path49"
+         inkscape:label="inst_s" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer16"
+       inkscape:label="Wave"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         id="layer17"
+         inkscape:label="Wave AFX"
+         style="display:none">
+        <rect
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect45"
+           width="140"
+           height="80"
+           x="398"
+           y="327.09201"
+           ry="12" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+           x="418.47101"
+           y="386.05032"
+           id="text45"><tspan
+             sodipodi:role="line"
+             id="tspan45"
+             x="418.47101"
+             y="386.05032">AFX</tspan></text>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer18"
+         inkscape:label="Wave No AFX"
+         style="display:inline">
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 398.46036,368.37785 138.85862,-0.82807"
+           id="path46"
+           inkscape:label="wave_m" />
+      </g>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 537.31898,367.54978 37.18525,-0.22175"
+         id="path47"
+         inkscape:label="wave_e" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker28)"
+         d="m 299.66732,368.967 98.79304,-0.58915"
+         id="path34"
+         inkscape:label="wave_s" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g37"
+       inkscape:label="DIG IN"
+       style="display:inline">
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 537.267,239.72968 h 37.23723"
+         id="path45"
+         inkscape:label="dig_e" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow)"
+         d="m 300.28433,239.72967 h 97.18406"
+         id="path35"
+         inkscape:label="dig_s" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer14"
+         inkscape:label="DIG IN No AFX"
+         style="display:inline">
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 397.46839,239.72967 139.79861,1e-5"
+           id="path44"
+           inkscape:label="dig_m" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer15"
+         inkscape:label="DIG IN AFX"
+         style="display:none">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+           x="418.78171"
+           y="258.68799"
+           id="text43"><tspan
+             sodipodi:role="line"
+             id="tspan43"
+             x="418.78171"
+             y="258.68799">AFX</tspan></text>
+        <rect
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect43"
+           width="140"
+           height="80"
+           x="397.41138"
+           y="199.72968"
+           ry="12" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer8"
+       inkscape:label="MIC GT"
+       style="display:inline">
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 538.02301,111.4862 h 36.48122"
+         id="path39"
+         inkscape:label="mic_gt_e" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker28)"
+         d="m 298,111.4862 h 98.39401"
+         id="path32"
+         inkscape:label="mic_gt_s" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer9"
+         inkscape:label="MIC GT No AFX"
+         style="display:inline">
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 396.39401,111.4862 h 141.629"
+           id="path38"
+           inkscape:label="mic_gt_m" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer10"
+         inkscape:label="MIC GT AFX"
+         style="display:none">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+           x="418.00262"
+           y="127.72774"
+           id="text1-3-6"><tspan
+             sodipodi:role="line"
+             id="tspan30-2"
+             x="418.00262"
+             y="127.72774">AFX</tspan></text>
+        <rect
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect30-1"
+           width="140"
+           height="80"
+           x="397"
+           y="68.769424"
+           ry="12" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g36"
+       inkscape:label="Long Input"
+       style="display:inline">
+      <circle
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36364;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="circle34"
+         cx="574.50421"
+         cy="367.09201"
+         r="5.818182" />
+      <circle
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="circle32"
+         cx="574.50421"
+         cy="239.72968"
+         r="5.8181777" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 574.50423,111.4862 V 498.0443"
+         id="path40" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer22"
+         inkscape:label="Bus"
+         style="display:inline">
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36364;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle33"
+           cx="574.50421"
+           cy="304.38263"
+           r="5.818182" />
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 739.07811,304 -164.57388,0.76525"
+           id="path36"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g68"
+     inkscape:label="AFX Rec Single Channel"
+     style="display:none">
+    <g
+       inkscape:groupmode="layer"
+       id="g52"
+       inkscape:label="Inst"
+       style="display:inline">
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 676.93147,498.0443 H 539.50329"
+         id="path50"
+         inkscape:label="inst_e"
+         sodipodi:nodetypes="cc" />
+      <g
+         inkscape:groupmode="layer"
+         id="g50"
+         inkscape:label="Inst AFX"
+         style="display:none">
+        <rect
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect50"
+           width="140"
+           height="80"
+           x="397.46838"
+           y="458.04431"
+           ry="12" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+           x="418.47101"
+           y="517.00262"
+           id="text50"><tspan
+             sodipodi:role="line"
+             id="tspan50"
+             x="418.47101"
+             y="517.00262">AFX</tspan></text>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g51"
+         inkscape:label="Inst No AFX"
+         style="display:inline">
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="M 539.50329,498.0443 H 395.52313"
+           id="path51"
+           inkscape:label="inst_m" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer23"
+         inkscape:label="Inst Rec"
+         style="display:inline">
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel"
+           d="m 610,498.0443 0.4538,-301.87068"
+           id="path7"
+           sodipodi:nodetypes="cc" />
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle8"
+           cx="610.22693"
+           cy="498.04431"
+           r="5.8181777" />
+      </g>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker29)"
+         d="M 395.52313,498.0443 H 301.45728"
+         id="path52"
+         inkscape:label="inst_s" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g55"
+       inkscape:label="Wave"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         id="g53"
+         inkscape:label="Wave AFX"
+         style="display:none">
+        <rect
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect52"
+           width="140"
+           height="80"
+           x="398"
+           y="327.09201"
+           ry="12" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+           x="418.47101"
+           y="386.05032"
+           id="text52"><tspan
+             sodipodi:role="line"
+             id="tspan52"
+             x="418.47101"
+             y="386.05032">AFX</tspan></text>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g54"
+         inkscape:label="Wave No AFX"
+         style="display:inline">
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 398.46036,368.37785 138.85862,-0.82807"
+           id="path53"
+           inkscape:label="wave_m" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer6"
+         inkscape:label="Wave Rec"
+         style="display:none">
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel"
+           d="m 610,367.43434 0.4538,-171.26072"
+           id="path6"
+           sodipodi:nodetypes="cc" />
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle7"
+           cx="610.22693"
+           cy="367.09201"
+           r="5.8181777" />
+      </g>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 619.30577,367.42495 57.6257,-0.0969"
+         id="path59"
+         inkscape:label="wave_m3"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 601.49038,367.44785 14.44584,-0.0229"
+         id="path33"
+         inkscape:label="wave_m2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 537.31898,367.54978 600,367.448"
+         id="path54"
+         inkscape:label="wave_m1"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker28)"
+         d="m 299.66732,368.967 98.79304,-0.58915"
+         id="path55"
+         inkscape:label="wave_s" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g60"
+       inkscape:label="DIG IN"
+       style="display:inline">
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 620.11795,239.72968 h 56.81352"
+         id="path14"
+         inkscape:label="dig_m3" />
+      <path
+         style="display:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 598.54922,239.72968 h 21.56873"
+         id="path10"
+         inkscape:label="dig_m2" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 537.267,239.72968 h 62.782"
+         id="path56"
+         inkscape:label="dig_m1"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow)"
+         d="m 300.28433,239.72967 h 97.18406"
+         id="path57"
+         inkscape:label="dig_s" />
+      <g
+         inkscape:groupmode="layer"
+         id="g58"
+         inkscape:label="DIG IN No AFX"
+         style="display:inline">
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 397.46839,239.72967 139.79861,1e-5"
+           id="path58"
+           inkscape:label="dig_m" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g59"
+         inkscape:label="DIG IN AFX"
+         style="display:none">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+           x="418.78171"
+           y="258.68799"
+           id="text58"><tspan
+             sodipodi:role="line"
+             id="tspan58"
+             x="418.78171"
+             y="258.68799">AFX</tspan></text>
+        <rect
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect58"
+           width="140"
+           height="80"
+           x="397.41138"
+           y="199.72968"
+           ry="12" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer5"
+         inkscape:label="DIG IN Rec"
+         style="display:none">
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel"
+           d="m 610,239.72968 0.4538,-43.55606"
+           id="path5"
+           sodipodi:nodetypes="cc" />
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle5"
+           cx="610.22693"
+           cy="239.72968"
+           r="5.8181777" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g64"
+       inkscape:label="MIC GT"
+       style="display:inline">
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 538.02301,111.4862 H 676.93147"
+         id="path60"
+         inkscape:label="mic_gt_e"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker28)"
+         d="m 298,111.4862 h 98.39401"
+         id="path61"
+         inkscape:label="mic_gt_s" />
+      <g
+         inkscape:groupmode="layer"
+         id="g62"
+         inkscape:label="MIC GT No AFX"
+         style="display:inline">
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 396.39401,111.4862 h 141.629"
+           id="path62"
+           inkscape:label="mic_gt_m" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g63"
+         inkscape:label="MIC GT AFX"
+         style="display:none">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+           x="418.00262"
+           y="127.72774"
+           id="text62"><tspan
+             sodipodi:role="line"
+             id="tspan62"
+             x="418.00262"
+             y="127.72774">AFX</tspan></text>
+        <rect
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect62"
+           width="140"
+           height="80"
+           x="397"
+           y="68.769424"
+           ry="12" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer4"
+         inkscape:label="MIC GT Rec"
+         style="display:none">
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel"
+           d="m 610,111.4862 0.4538,84.68742"
+           id="path1" />
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle65-5"
+           cx="610"
+           cy="111.4862"
+           r="5.8181777" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g67"
+       inkscape:label="Long Input"
+       style="display:inline">
+      <circle
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36364;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="circle64"
+         cx="676.93146"
+         cy="367.09201"
+         r="5.818182" />
+      <circle
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="circle65"
+         cx="676.93146"
+         cy="239.72968"
+         r="5.8181777" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 676.93147,207.8984 V 498.0443"
+         id="path3" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 676.93147,111.4862 v 71.10221"
+         id="path65" />
+      <g
+         inkscape:groupmode="layer"
+         id="g66"
+         inkscape:label="Bus"
+         style="display:inline">
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36364;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle66"
+           cx="676.93146"
+           cy="411.82639"
+           r="5.818182" />
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker30)"
+           d="m 676.93147,411.44374 149.29948,0.76525"
+           id="path66"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <path
+         style="display:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 676.93147,182.58841 V 207.8984"
+         id="path2"
+         inkscape:label="Broken" />
+    </g>
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel;marker-end:url(#marker30)"
+       d="M 610.4538,196.17362 H 826.23095"
+       id="path4"
+       inkscape:label="Output" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g105"
+     inkscape:label="Rec Single Channel No AFX"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="g81"
+       inkscape:label="Inst"
+       style="display:inline">
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 676.93147,498.0443 H 539.50329"
+         id="path78"
+         inkscape:label="inst_e"
+         sodipodi:nodetypes="cc" />
+      <g
+         inkscape:groupmode="layer"
+         id="g78"
+         inkscape:label="Inst AFX"
+         style="display:none">
+        <rect
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect78"
+           width="140"
+           height="80"
+           x="397.46838"
+           y="458.04431"
+           ry="12" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+           x="418.47101"
+           y="517.00262"
+           id="text78"><tspan
+             sodipodi:role="line"
+             id="tspan78"
+             x="418.47101"
+             y="517.00262">AFX</tspan></text>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g79"
+         inkscape:label="Inst No AFX"
+         style="display:inline">
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="M 539.50329,498.0443 H 395.52313"
+           id="path79"
+           inkscape:label="inst_m" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g80"
+         inkscape:label="Inst Rec"
+         style="display:none">
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel"
+           d="m 494.65395,498.0443 0.4538,-301.87068"
+           id="path80"
+           sodipodi:nodetypes="cc" />
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle80"
+           cx="494.88089"
+           cy="498.04431"
+           r="5.8181777" />
+      </g>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker29)"
+         d="M 395.52313,498.0443 H 301.45728"
+         id="path81"
+         inkscape:label="inst_s" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g87"
+       inkscape:label="Wave"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         id="g82"
+         inkscape:label="Wave AFX"
+         style="display:none">
+        <rect
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect81"
+           width="140"
+           height="80"
+           x="398"
+           y="327.09201"
+           ry="12" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+           x="418.47101"
+           y="386.05032"
+           id="text81"><tspan
+             sodipodi:role="line"
+             id="tspan81"
+             x="418.47101"
+             y="386.05032">AFX</tspan></text>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g83"
+         inkscape:label="Wave No AFX"
+         style="display:inline">
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="M 398.46036,368.37785 486,367.54978"
+           id="path82"
+           inkscape:label="wave_m1"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g84"
+         inkscape:label="Wave Rec"
+         style="display:inline">
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel"
+           d="m 494.65395,367.43434 0.4538,-171.26072"
+           id="path83"
+           sodipodi:nodetypes="cc" />
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle83"
+           cx="494.88089"
+           cy="367.09201"
+           r="5.8181777" />
+      </g>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 504,367.54978 676.93147,367.448"
+         id="path86"
+         inkscape:label="wave_m3"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker28)"
+         d="m 299.66732,368.967 98.79304,-0.58915"
+         id="path87"
+         inkscape:label="wave_s" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 486,367.54978 h 18"
+         id="path106"
+         inkscape:label="wave_m2" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g95"
+       inkscape:label="DIG IN"
+       style="display:inline">
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 504,239.72968 H 676.93147"
+         id="path90"
+         inkscape:label="dig_m3"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow)"
+         d="m 300.28433,239.72967 h 97.18406"
+         id="path91"
+         inkscape:label="dig_s" />
+      <g
+         inkscape:groupmode="layer"
+         id="g92"
+         inkscape:label="DIG IN No AFX"
+         style="display:inline">
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="M 397.46839,239.72967 486,239.72968"
+           id="path92"
+           inkscape:label="dig_m1"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g93"
+         inkscape:label="DIG IN AFX"
+         style="display:none">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+           x="418.78171"
+           y="258.68799"
+           id="text92"><tspan
+             sodipodi:role="line"
+             id="tspan92"
+             x="418.78171"
+             y="258.68799">AFX</tspan></text>
+        <rect
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect92"
+           width="140"
+           height="80"
+           x="397.41138"
+           y="199.72968"
+           ry="12" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g94"
+         inkscape:label="DIG IN Rec"
+         style="display:none">
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel"
+           d="m 494.65395,239.72968 0.4538,-43.55606"
+           id="path93"
+           sodipodi:nodetypes="cc" />
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle93"
+           cx="494.88089"
+           cy="239.72968"
+           r="5.8181777" />
+      </g>
+      <path
+         style="display:none;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel"
+         d="m 486,239.72968 h 18"
+         id="path107"
+         inkscape:label="dig_m2" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g100"
+       inkscape:label="MIC GT"
+       style="display:inline">
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 538.02301,111.4862 H 676.93147"
+         id="path95"
+         inkscape:label="mic_gt_e"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker28)"
+         d="m 298,111.4862 h 98.39401"
+         id="path96"
+         inkscape:label="mic_gt_s" />
+      <g
+         inkscape:groupmode="layer"
+         id="g97"
+         inkscape:label="MIC GT No AFX"
+         style="display:inline">
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 396.39401,111.4862 h 141.629"
+           id="path97"
+           inkscape:label="mic_gt_m" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g98"
+         inkscape:label="MIC GT AFX"
+         style="display:none">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+           x="418.00262"
+           y="127.72774"
+           id="text97"><tspan
+             sodipodi:role="line"
+             id="tspan97"
+             x="418.00262"
+             y="127.72774">AFX</tspan></text>
+        <rect
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect97"
+           width="140"
+           height="80"
+           x="397"
+           y="68.769424"
+           ry="12" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g99"
+         inkscape:label="MIC GT Rec"
+         style="display:none">
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel"
+           d="m 494.65395,111.4862 0.4538,84.68742"
+           id="path98" />
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle98"
+           cx="494.65396"
+           cy="111.4862"
+           r="5.8181777" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g104"
+       inkscape:label="Long Input"
+       style="display:inline">
+      <circle
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36364;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="circle100"
+         cx="676.93146"
+         cy="367.09201"
+         r="5.818182" />
+      <circle
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="circle101"
+         cx="676.93146"
+         cy="239.72968"
+         r="5.8181777" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 676.93147,207.8984 V 498.0443"
+         id="path101" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 676.93147,111.4862 v 71.10221"
+         id="path102" />
+      <g
+         inkscape:groupmode="layer"
+         id="g103"
+         inkscape:label="Bus"
+         style="display:inline">
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36364;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle102"
+           cx="676.93146"
+           cy="411.82639"
+           r="5.818182" />
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker30)"
+           d="m 676.93147,411.44374 149.29948,0.76525"
+           id="path103"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <path
+         style="display:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 676.93147,182.58841 V 207.8984"
+         id="path104"
+         inkscape:label="Broken" />
+    </g>
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel;marker-end:url(#marker30)"
+       d="m 495.10775,196.17362 331.1232,0"
+       id="path105"
+       inkscape:label="Output"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g76"
+     inkscape:label="AFX Moni Rec Dry"
+     style="display:none">
+    <g
+       inkscape:groupmode="layer"
+       id="g14"
+       inkscape:label="Inst"
+       style="display:inline">
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 676.93147,498.0443 H 630.60552"
+         id="path9"
+         inkscape:label="inst_e"
+         sodipodi:nodetypes="cc" />
+      <g
+         inkscape:groupmode="layer"
+         id="g11"
+         inkscape:label="Inst AFX"
+         style="display:none">
+        <rect
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect9"
+           width="140"
+           height="80"
+           x="488.57062"
+           y="458.04431"
+           ry="12" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+           x="509.57324"
+           y="517.00262"
+           id="text11"><tspan
+             sodipodi:role="line"
+             id="tspan11"
+             x="509.57324"
+             y="517.00262">AFX</tspan></text>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g12"
+         inkscape:label="Inst No AFX"
+         style="display:inline">
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="M 630.60552,498.0443 H 486.62536"
+           id="path11"
+           inkscape:label="inst_m" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g13"
+         inkscape:label="Inst Rec"
+         style="display:none">
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel"
+           d="m 422.81704,498.0443 0.4538,-301.87068"
+           id="path12"
+           sodipodi:nodetypes="cc" />
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle12"
+           cx="423.04398"
+           cy="498.04431"
+           r="5.8181777" />
+      </g>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker29)"
+         d="M 486.62536,498.0443 H 301.45728"
+         id="path13"
+         inkscape:label="inst_s"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g18"
+       inkscape:label="Wave"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         id="g15"
+         inkscape:label="Wave AFX"
+         style="display:inline">
+        <rect
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect14"
+           width="140"
+           height="80"
+           x="488.57062"
+           y="327.09201"
+           ry="12" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+           x="509.04163"
+           y="386.05032"
+           id="text14"><tspan
+             sodipodi:role="line"
+             id="tspan14"
+             x="509.04163"
+             y="386.05032">AFX</tspan></text>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g16"
+         inkscape:label="Wave No AFX"
+         style="display:none">
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="M 489.03098,368.37785 627.8896,367.54978"
+           id="path15"
+           inkscape:label="wave_m" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g17"
+         inkscape:label="Wave Rec"
+         style="display:inline">
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel"
+           d="m 422.81704,367.43434 0.4538,-171.26072"
+           id="path16"
+           sodipodi:nodetypes="cc" />
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle16"
+           cx="423.04398"
+           cy="367.09201"
+           r="5.8181777" />
+      </g>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 627.8896,367.54978 49.04187,-0.22175"
+         id="path17"
+         inkscape:label="wave_e"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 432,368.564 57.03098,-0.18614"
+         id="path67"
+         inkscape:label="wave_s3"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 414.00502,368.61127 15.27035,-0.0475"
+         id="path64"
+         inkscape:label="wave_s2" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker28)"
+         d="m 299.66732,368.967 114.3377,-0.35573"
+         id="path18"
+         inkscape:label="wave_s1" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g29"
+       inkscape:label="DIG IN"
+       style="display:inline">
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 628.57062,239.72968 h 48.36085"
+         id="path19"
+         inkscape:label="dig_e"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 432,239.72967 h 56.57062"
+         id="path71"
+         inkscape:label="dig_s3"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 415.89273,239.72967 H 432"
+         id="path68"
+         sodipodi:nodetypes="cc"
+         inkscape:label="dig_s2" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow)"
+         d="M 300.28433,239.72967 H 414.005"
+         id="path25"
+         sodipodi:nodetypes="cc"
+         inkscape:label="dig_s1" />
+      <g
+         inkscape:groupmode="layer"
+         id="g26"
+         inkscape:label="DIG IN No AFX"
+         style="display:inline">
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 488.77201,239.72967 139.79861,1e-5"
+           id="path26"
+           inkscape:label="dig_m" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g27"
+         inkscape:label="DIG IN AFX"
+         style="display:none">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+           x="509.94095"
+           y="266.68799"
+           id="text26"><tspan
+             sodipodi:role="line"
+             id="tspan26"
+             x="509.94095"
+             y="266.68799">AFX</tspan></text>
+        <rect
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect26"
+           width="140"
+           height="80"
+           x="488.57062"
+           y="207.72969"
+           ry="12" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g28"
+         inkscape:label="DIG IN Rec"
+         style="display:none">
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel"
+           d="m 422.81704,239.72968 0.4538,-43.55606"
+           id="path27"
+           sodipodi:nodetypes="cc" />
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle27"
+           cx="423.04398"
+           cy="239.72968"
+           r="5.8181777" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g71"
+       inkscape:label="MIC GT"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         id="g65"
+         inkscape:label="MIC GT No AFX"
+         style="display:inline">
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 488.57062,111.4862 h 140"
+           id="path76"
+           inkscape:label="mic_gt_m" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g69"
+         inkscape:label="MIC GT AFX"
+         style="display:none">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+           x="509.57324"
+           y="127.72774"
+           id="text65"><tspan
+             sodipodi:role="line"
+             id="tspan65"
+             x="509.57324"
+             y="127.72774">AFX</tspan></text>
+        <rect
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect65"
+           width="140"
+           height="80"
+           x="488.57062"
+           y="68.769424"
+           ry="12" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g70"
+         inkscape:label="MIC GT Rec"
+         style="display:none">
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel"
+           d="m 422.81704,111.4862 0.4538,84.68742"
+           id="path69" />
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle69"
+           cx="423.04395"
+           cy="111.4862"
+           r="5.8181777" />
+      </g>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow)"
+         d="M 298,111.4862 H 488.57062"
+         id="path63"
+         inkscape:label="mic_gt_s" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 628.57062,111.4862 h 48.36085"
+         id="path77"
+         inkscape:label="mic_gt_e" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g75"
+       inkscape:label="Long Input"
+       style="display:inline">
+      <circle
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36364;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="circle71"
+         cx="676.93146"
+         cy="367.09201"
+         r="5.818182" />
+      <circle
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="circle72"
+         cx="676.93146"
+         cy="239.72968"
+         r="5.8181777" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 676.93147,207.8984 V 498.0443"
+         id="path72" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 676.93147,111.4862 v 71.10221"
+         id="path73" />
+      <g
+         inkscape:groupmode="layer"
+         id="g74"
+         inkscape:label="Bus"
+         style="display:inline">
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36364;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="circle73"
+           cx="676.93146"
+           cy="411.82639"
+           r="5.818182" />
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker30)"
+           d="m 676.93147,411.44374 149.29948,0.76525"
+           id="path74"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <path
+         style="display:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 676.93147,182.58841 V 207.8984"
+         id="path75"
+         inkscape:label="Broken" />
+    </g>
+    <path
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel;marker-end:url(#marker30)"
+       d="M 423.27084,196.17362 H 826.23095"
+       id="path70"
+       inkscape:label="Output"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Short Input"
+     style="display:none">
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker29)"
+       d="M 409.94131,498.0443 H 301.45728"
+       id="path43"
+       inkscape:label="inst" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 409.91941,111.4862 0.0219,386.5581"
+       id="path42"
+       inkscape:label="left bus" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker28)"
+       d="M 298,111.4862 H 409.91941"
+       id="path20"
+       inkscape:label="mic_gt" />
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path24-8"
+       cx="410.0639"
+       cy="239.72968"
+       r="5.8181777" />
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36364;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path24-8-5"
+       cx="410.0639"
+       cy="304.34833"
+       r="5.818182" />
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.36364;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path24-7"
+       cx="410.0639"
+       cy="367.32803"
+       r="5.818182" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker28)"
+       d="M 299.66732,368.967 H 407.06391"
+       id="path21-5"
+       sodipodi:nodetypes="cc"
+       inkscape:label="wave" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow)"
+       d="M 300.28433,239.72967 H 409.91941"
+       id="path21"
+       sodipodi:nodetypes="cc"
+       inkscape:label="dig in" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer12"
+       inkscape:label="Full Bus"
+       style="display:none">
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 739.07811,304 -329.14775,0.76525"
+         id="path23"
+         inkscape:label="bus" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer13"
+       inkscape:label="AFX Bus"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect36"
+         width="140"
+         height="80"
+         x="508.49677"
+         y="264.38263"
+         ry="12" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1"
+         x="529.49939"
+         y="323.34094"
+         id="text36"><tspan
+           sodipodi:role="line"
+           id="tspan36"
+           x="529.49939"
+           y="323.34094">AFX</tspan></text>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 739.07811,304 -90.58134,0.38263 m -140,0 -98.56641,0.38262"
+         id="path37"
+         sodipodi:nodetypes="cccc" />
+    </g>
+  </g>
+</svg>
